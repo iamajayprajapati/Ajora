@@ -1,0 +1,143 @@
+id,name,category,city,state,website,subgroup
+iit-bhubaneswar,IIT Bhubaneswar,IIT,Bhubaneswar,Odisha,https://www.iitbbs.ac.in,
+iit-bombay,IIT Bombay,IIT,Mumbai,Maharashtra,https://www.iitb.ac.in,
+iit-mandi,IIT Mandi,IIT,Mandi,Himachal Pradesh,https://www.iitmandi.ac.in,
+iit-delhi,IIT Delhi,IIT,New Delhi,Delhi,https://www.iitd.ac.in,
+iit-indore,IIT Indore,IIT,Indore,Madhya Pradesh,https://www.iiti.ac.in,
+iit-kharagpur,IIT Kharagpur,IIT,Kharagpur,West Bengal,https://www.iitkgp.ac.in,
+iit-hyderabad,IIT Hyderabad,IIT,Sangareddy,Telangana,https://www.iith.ac.in,
+iit-jodhpur,IIT Jodhpur,IIT,Jodhpur,Rajasthan,https://www.iitj.ac.in,
+iit-kanpur,IIT Kanpur,IIT,Kanpur,Uttar Pradesh,https://www.iitk.ac.in,
+iit-madras,IIT Madras,IIT,Chennai,Tamil Nadu,https://www.iitm.ac.in,
+iit-gandhinagar,IIT Gandhinagar,IIT,Gandhinagar,Gujarat,https://www.iitgn.ac.in,
+iit-patna,IIT Patna,IIT,Bihta,Bihar,https://www.iitp.ac.in,
+iit-roorkee,IIT Roorkee,IIT,Roorkee,Uttarakhand,https://www.iitr.ac.in,
+iit-ism-dhanbad,IIT (ISM) Dhanbad,IIT,Dhanbad,Jharkhand,https://www.iitism.ac.in,
+iit-ropar,IIT Ropar,IIT,Rupnagar,Punjab,https://www.iitrpr.ac.in,
+iit-bhu-varanasi,IIT (BHU) Varanasi,IIT,Varanasi,Uttar Pradesh,https://www.iitbhu.ac.in,
+iit-guwahati,IIT Guwahati,IIT,Guwahati,Assam,https://www.iitg.ac.in,
+iit-bhilai,IIT Bhilai,IIT,Bhilai,Chhattisgarh,https://www.iitbhilai.ac.in,
+iit-goa,IIT Goa,IIT,Ponda,Goa,https://www.iitgoa.ac.in,
+iit-palakkad,IIT Palakkad,IIT,Palakkad,Kerala,https://iitpkd.ac.in,
+iit-tirupati,IIT Tirupati,IIT,Tirupati,Andhra Pradesh,https://www.iittp.ac.in,
+iit-jammu,IIT Jammu,IIT,Jammu,Jammu and Kashmir,https://iitjammu.ac.in,
+iit-dharwad,IIT Dharwad,IIT,Dharwad,Karnataka,https://www.iitdh.ac.in,
+nit-jalandhar,NIT Jalandhar,NIT,Jalandhar,Punjab,https://www.nitj.ac.in,
+mnit-jaipur,MNIT Jaipur,NIT,Jaipur,Rajasthan,https://www.mnit.ac.in,
+manit-bhopal,MANIT Bhopal,NIT,Bhopal,Madhya Pradesh,https://www.manit.ac.in,
+mnnit-allahabad,MNNIT Allahabad,NIT,Prayagraj,Uttar Pradesh,https://www.mnnit.ac.in,
+nit-agartala,NIT Agartala,NIT,Agartala,Tripura,https://www.nita.ac.in,
+nit-calicut,NIT Calicut,NIT,Kozhikode,Kerala,https://www.nitc.ac.in,
+nit-delhi,NIT Delhi,NIT,New Delhi,Delhi,https://www.nitdelhi.ac.in,
+nit-durgapur,NIT Durgapur,NIT,Durgapur,West Bengal,https://www.nitdgp.ac.in,
+nit-goa,NIT Goa,NIT,Cuncolim,Goa,https://www.nitgoa.ac.in,
+nit-hamirpur,NIT Hamirpur,NIT,Hamirpur,Himachal Pradesh,https://www.nith.ac.in,
+nit-surathkal,"NIT Karnataka, Surathkal",NIT,Surathkal,Karnataka,https://www.nitk.ac.in,
+nit-meghalaya,NIT Meghalaya,NIT,Sohra,Meghalaya,https://www.nitm.ac.in,
+nit-nagaland,NIT Nagaland,NIT,Chumoukedima,Nagaland,https://nitnagaland.ac.in/,
+nit-patna,NIT Patna,NIT,Patna,Bihar,https://www.nitp.ac.in,
+nit-puducherry,NIT Puducherry,NIT,Karaikal,Puducherry,https://www.nitpy.ac.in,
+nit-raipur,NIT Raipur,NIT,Raipur,Chhattisgarh,https://www.nitrr.ac.in,
+nit-sikkim,NIT Sikkim,NIT,Ravangla,Sikkim,https://www.nitsikkim.ac.in,
+nit-arunachal-pradesh,NIT Arunachal Pradesh,NIT,Jote,Arunachal Pradesh,https://www.nitap.ac.in/,
+nit-jamshedpur,NIT Jamshedpur,NIT,Jamshedpur,Jharkhand,https://www.nitjsr.ac.in,
+nit-kurukshetra,NIT Kurukshetra,NIT,Kurukshetra,Haryana,https://www.nitkkr.ac.in,
+nit-manipur,NIT Manipur,NIT,Imphal,Manipur,https://www.nitmanipur.ac.in,
+nit-mizoram,NIT Mizoram,NIT,Aizawl,Mizoram,https://www.nitmz.ac.in,
+nit-rourkela,NIT Rourkela,NIT,Rourkela,Odisha,https://www.nitrkl.ac.in,
+nit-silchar,NIT Silchar,NIT,Silchar,Assam,https://www.nits.ac.in,
+nit-srinagar,NIT Srinagar,NIT,Srinagar,Jammu and Kashmir,https://nitsri.ac.in,
+nit-trichy,NIT Tiruchirappalli,NIT,Tiruchirappalli,Tamil Nadu,https://www.nitt.edu,
+nit-uttarakhand,NIT Uttarakhand,NIT,Srinagar (Garhwal),Uttarakhand,https://www.nituk.ac.in,
+nit-warangal,NIT Warangal,NIT,Warangal,Telangana,https://www.nitw.ac.in,
+svnit-surat,SVNIT Surat,NIT,Surat,Gujarat,https://www.svnit.ac.in,
+vnit-nagpur,VNIT Nagpur,NIT,Nagpur,Maharashtra,https://www.vnit.ac.in,
+nit-andhra-pradesh,NIT Andhra Pradesh,NIT,Tadepalligudem,Andhra Pradesh,https://www.nitandhra.ac.in,
+iiit-gwalior,ABV-IIITM Gwalior,IIIT,Gwalior,Madhya Pradesh,https://www.iiitm.ac.in,Centrally funded
+iiit-kota,IIIT Kota,IIIT,Kota,Rajasthan,https://www.iiitkota.ac.in,PPP institutes
+iiit-guwahati,IIIT Guwahati,IIIT,Guwahati,Assam,https://www.iiitg.ac.in/,PPP institutes
+iiit-kalyani,IIIT Kalyani,IIIT,Kalyani,West Bengal,https://www.iiitkalyani.ac.in,PPP institutes
+iiit-sonipat,IIIT Sonipat,IIIT,Sonipat,Haryana,https://www.iiitsonepat.ac.in,PPP institutes
+iiit-una,IIIT Una,IIIT,Una,Himachal Pradesh,https://www.iiitu.ac.in,PPP institutes
+iiit-sri-city,IIIT Sri City,IIIT,Sri City,Andhra Pradesh,https://www.iiits.ac.in,PPP institutes
+iiit-vadodara,IIIT Vadodara,IIIT,Vadodara,Gujarat,https://www.iiitvadodara.ac.in,PPP institutes
+iiit-allahabad,IIIT Allahabad,IIIT,Prayagraj,Uttar Pradesh,https://www.iiita.ac.in,Centrally funded
+iiit-kancheepuram,IIITDM Kancheepuram,IIIT,Kancheepuram,Tamil Nadu,https://www.iiitdm.ac.in,Centrally funded
+iiit-jabalpur,IIITDM Jabalpur,IIIT,Jabalpur,Madhya Pradesh,https://www.iiitdmj.ac.in,Centrally funded
+iiit-manipur,IIIT Manipur,IIIT,Senapati,Manipur,https://www.iiitmanipur.ac.in,PPP institutes
+iiit-tiruchirappalli,IIIT Tiruchirappalli,IIIT,Tiruchirappalli,Tamil Nadu,https://www.iiitt.ac.in,PPP institutes
+iiit-lucknow,IIIT Lucknow,IIIT,Lucknow,Uttar Pradesh,https://iiitl.ac.in/,PPP institutes
+iiit-dharwad,IIIT Dharwad,IIIT,Dharwad,Karnataka,https://www.iiitdwd.ac.in,PPP institutes
+iiitdm-kurnool,IIITDM Kurnool,IIIT,Kurnool,Andhra Pradesh,https://www.iiitk.ac.in,Centrally funded
+iiit-kottayam,IIIT Kottayam,IIIT,Kottayam,Kerala,https://www.iiitkottayam.ac.in/,PPP institutes
+iiit-ranchi,IIIT Ranchi,IIIT,Ranchi,Jharkhand,https://www.iiitranchi.ac.in,PPP institutes
+iiit-nagpur,IIIT Nagpur,IIIT,Nagpur,Maharashtra,https://www.iiitn.ac.in,PPP institutes
+iiit-pune,IIIT Pune,IIIT,Pune,Maharashtra,https://iiitp.ac.in/,PPP institutes
+iiit-bhagalpur,IIIT Bhagalpur,IIIT,Bhagalpur,Bihar,https://iiitbh.ac.in/,PPP institutes
+iiit-bhopal,IIIT Bhopal,IIIT,Bhopal,Madhya Pradesh,https://www.iiitbhopal.ac.in,PPP institutes
+iiit-surat,IIIT Surat,IIIT,Surat,Gujarat,https://www.iiitsurat.ac.in,PPP institutes
+iiit-agartala,IIIT Agartala,IIIT,Agartala,Tripura,https://www.iiitagartala.ac.in/,PPP institutes
+iiit-raichur,IIIT Raichur,IIIT,Raichur,Karnataka,https://iiitr.ac.in,PPP institutes
+iiit-vadodara-international-campus-diu,IIIT Vadodara International Campus Diu,IIIT,Diu,Dadra and Nagar Haveli and Daman and Diu,https://diu.iiitvadodara.ac.in/,Additional campus
+aligarh-muslim-university,Aligarh Muslim University,Central University,Aligarh,Uttar Pradesh,https://www.amu.ac.in,
+assam-university,Assam University,Central University,Silchar,Assam,https://www.aus.ac.in/,
+babasaheb-bhimrao-ambedkar-university,Babasaheb Bhimrao Ambedkar University,Central University,Lucknow,Uttar Pradesh,https://www.bbau.ac.in,
+bhu,Banaras Hindu University,Central University,Varanasi,Uttar Pradesh,https://www.bhu.ac.in,
+central-agricultural-university,Central Agricultural University,Central University,Imphal,Manipur,https://cau.ac.in/,
+central-sanskrit-university,Central Sanskrit University,Central University,New Delhi,Delhi,https://www.sanskrit.nic.in/,
+central-tribal-university-of-andhra-pradesh,Central Tribal University of Andhra Pradesh,Central University,Vizianagaram,Andhra Pradesh,https://www.ctuap.ac.in/,
+central-university-of-andhra-pradesh,Central University of Andhra Pradesh,Central University,Anantapur,Andhra Pradesh,https://www.cuap.ac.in/,
+central-university-of-gujarat,Central University of Gujarat,Central University,Gandhinagar,Gujarat,https://www.cug.ac.in,
+central-university-of-haryana,Central University of Haryana,Central University,Mahendragarh,Haryana,https://www.cuh.ac.in,
+central-university-of-himachal-pradesh,Central University of Himachal Pradesh,Central University,Dharamshala,Himachal Pradesh,https://www.cuhimachal.ac.in,
+central-university-of-jammu,Central University of Jammu,Central University,Samba,Jammu and Kashmir,https://www.cujammu.ac.in,
+central-university-of-jharkhand,Central University of Jharkhand,Central University,Ranchi,Jharkhand,https://www.cuj.ac.in,
+central-university-of-karnataka,Central University of Karnataka,Central University,Kalaburagi,Karnataka,https://www.cuk.ac.in,
+central-university-of-kashmir,Central University of Kashmir,Central University,Ganderbal,Jammu and Kashmir,https://www.cukashmir.ac.in,
+central-university-of-kerala,Central University of Kerala,Central University,Kasaragod,Kerala,https://www.cukerala.ac.in/,
+central-university-of-odisha,Central University of Odisha,Central University,Koraput,Odisha,https://cuo.ac.in/,
+central-university-of-punjab,Central University of Punjab,Central University,Bathinda,Punjab,https://www.cup.ac.in,
+central-university-of-rajasthan,Central University of Rajasthan,Central University,Kishangarh,Rajasthan,https://www.curaj.ac.in,
+central-university-of-south-bihar,Central University of South Bihar,Central University,Gaya,Bihar,https://www.cusb.ac.in/,
+central-university-of-tamil-nadu,Central University of Tamil Nadu,Central University,Tiruvarur,Tamil Nadu,https://cutn.ac.in/,
+dr-harisingh-gour-vishwavidyalaya,Dr. Harisingh Gour Vishwavidyalaya,Central University,Sagar,Madhya Pradesh,https://dhsgsu.edu.in/,
+dr-rajendra-prasad-central-agricultural-university,Dr. Rajendra Prasad Central Agricultural University,Central University,Pusa,Bihar,https://www.rpcau.ac.in/,
+english-foreign-languages-university,English & Foreign Languages University,Central University,Hyderabad,Telangana,https://www.efluniversity.ac.in/,
+gati-shakti-vishwavidyalaya,Gati Shakti Vishwavidyalaya,Central University,Vadodara,Gujarat,https://gsv.ac.in/,
+guru-ghasidas-vishwavidyalaya,Guru Ghasidas Vishwavidyalaya,Central University,Bilaspur,Chhattisgarh,https://www.ggu.ac.in,
+hemvati-nandan-bahuguna-garhwal-university,Hemvati Nandan Bahuguna Garhwal University,Central University,Srinagar (Garhwal),Uttarakhand,https://www.hnbgu.ac.in/,
+indian-maritime-university,Indian Maritime University,Central University,Chennai,Tamil Nadu,https://www.imu.edu.in/,
+indira-gandhi-national-open-university,Indira Gandhi National Open University,Central University,New Delhi,Delhi,https://www.ignou.ac.in,
+jamia-millia-islamia,Jamia Millia Islamia,Central University,New Delhi,Delhi,https://jmi.ac.in/,
+jnu,Jawaharlal Nehru University,Central University,New Delhi,Delhi,https://www.jnu.ac.in,
+mahatma-gandhi-antarrashtriya-hindi-vishwavidyalaya,Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya,Central University,Wardha,Maharashtra,https://hindivishwa.org/,
+mahatma-gandhi-central-university,Mahatma Gandhi Central University,Central University,Motihari,Bihar,https://www.mgcub.ac.in/,
+manipur-university,Manipur University,Central University,Imphal,Manipur,https://www.manipuruniv.ac.in/,
+maulana-azad-national-urdu-university,Maulana Azad National Urdu University,Central University,Hyderabad,Telangana,https://manuu.edu.in/,
+mizoram-university,Mizoram University,Central University,Aizawl,Mizoram,https://mzu.edu.in/,
+nagaland-university,Nagaland University,Central University,Lumami,Nagaland,https://nagalanduniversity.ac.in/,
+nalanda-university,Nalanda University,Central University,Rajgir,Bihar,https://nalandauniv.edu.in/,
+national-sanskrit-university,National Sanskrit University,Central University,Tirupati,Andhra Pradesh,https://nsktu.ac.in,
+national-sports-university,National Sports University,Central University,Imphal,Manipur,https://www.nsu.ac.in/,
+north-eastern-hill-university,North Eastern Hill University,Central University,Shillong,Meghalaya,https://www.nehu.ac.in,
+pondicherry-university,Pondicherry University,Central University,Puducherry,Puducherry,https://www.pondiuni.edu.in,
+rajiv-gandhi-national-aviation-university,Rajiv Gandhi National Aviation University,Central University,Amethi,Uttar Pradesh,https://www.rgnau.ac.in/,
+rajiv-gandhi-university,Rajiv Gandhi University,Central University,Doimukh,Arunachal Pradesh,https://www.rgu.ac.in,
+rani-lakshmi-bai-central-agricultural-university,Rani Lakshmi Bai Central Agricultural University,Central University,Jhansi,Uttar Pradesh,https://rlbcau.ac.in/,
+sammakka-sarakka-central-tribal-university,Sammakka Sarakka Central Tribal University,Central University,Mulugu,Telangana,https://ssctu.ac.in/,
+shri-lal-bahadur-shastri-national-sanskrit-university,Shri Lal Bahadur Shastri National Sanskrit University,Central University,New Delhi,Delhi,https://www.slbsrsv.ac.in,
+sikkim-university,Sikkim University,Central University,Gangtok,Sikkim,https://cus.ac.in/,
+sindhu-central-university,Sindhu Central University,Central University,Leh,Ladakh,https://sindhucu.ac.in/,
+south-asian-university,South Asian University,Central University,New Delhi,Delhi,https://sau.int/,
+tezu,Tezpur University,Central University,Tezpur,Assam,https://www.tezu.ac.in/,
+the-indira-gandhi-national-tribal-university,The Indira Gandhi National Tribal University,Central University,Amarkantak,Madhya Pradesh,https://www.igntu.ac.in/,
+tripura-university,Tripura University,Central University,Agartala,Tripura,https://tripurauniv.ac.in/,
+university-of-allahabad,University of Allahabad,Central University,Prayagraj,Uttar Pradesh,https://allduniv.ac.in/,
+delhi-university,University of Delhi,Central University,New Delhi,Delhi,https://www.du.ac.in,
+uoh,University of Hyderabad,Central University,Hyderabad,Telangana,https://www.uohyd.ac.in,
+visva-bharati,Visva Bharati,Central University,Santiniketan,West Bengal,https://visvabharati.ac.in/,
+iiit-delhi,IIIT Delhi,IIIT,New Delhi,Delhi,https://iiitd.ac.in/,Other IIITs
+iiit-hyderabad,IIIT Hyderabad,IIIT,Hyderabad,Telangana,https://www.iiit.ac.in/,Other IIITs
+iiit-bangalore,IIIT Bangalore,IIIT,Bengaluru,Karnataka,https://www.iiitb.ac.in/,Other IIITs
+iiit-bhubaneswar,IIIT Bhubaneswar,IIIT,Bhubaneswar,Odisha,https://www.iiit-bh.ac.in/,Other IIITs
+iiit-naya-raipur,IIIT Naya Raipur,IIIT,Nava Raipur,Chhattisgarh,https://www.iiitnr.edu.in/,Other IIITs

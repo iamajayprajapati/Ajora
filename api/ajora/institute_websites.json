@@ -1,0 +1,1276 @@
+{
+  "iit-bhubaneswar": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.522653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitbbs.ac.in",
+    "logo_source": "https://www.iitbbs.ac.in/wp-content/uploads/2023/06/iitb_bhubaneswar_logo.png",
+    "title": "IIT Bhubaneswar",
+    "checked_url": "https://www.iitbbs.ac.in"
+  },
+  "iit-bombay": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.523653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitb.ac.in",
+    "logo_source": "https://www.iitb.ac.in/sites/default/files/IITBLogo.png",
+    "title": "Home | भारतीय प्रौद्योगिकी संस्थान मुंबई",
+    "checked_url": "https://www.iitb.ac.in"
+  },
+  "iit-mandi": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.523653+00:00",
+    "status": "reachable",
+    "website": "https://iitmandi.ac.in/",
+    "logo_source": "https://cce.iitmandi.ac.in/images/favicon.ico",
+    "title": "Indian Institute of Technology Mandi",
+    "checked_url": "https://www.iitmandi.ac.in"
+  },
+  "iit-delhi": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.523653+00:00",
+    "status": "reachable",
+    "website": "https://home.iitd.ac.in/",
+    "logo_source": "https://home.iitd.ac.in/images/preloaders/logo.png",
+    "title": "Home Page : IIT Delhi",
+    "checked_url": "https://www.iitd.ac.in"
+  },
+  "iit-indore": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.523653+00:00",
+    "status": "reachable",
+    "website": "https://www.iiti.ac.in",
+    "logo_source": "https://www.iiti.ac.in/images/logo.png",
+    "title": "IIT Indore, भारतीय प्रौद्योगिकी संस्थान इंदौर",
+    "checked_url": "https://www.iiti.ac.in"
+  },
+  "iit-kharagpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.523653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitkgp.ac.in/home",
+    "logo_source": "https://student.iitkgp.ac.in/docs/UGAdmManual2024.pdf",
+    "title": "Indian Institute of Technology Kharagpur | IIT KGP",
+    "checked_url": "https://www.iitkgp.ac.in/home"
+  },
+  "iit-hyderabad": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:55:54.680229+00:00",
+    "status": "official_confirmed",
+    "website": "https://iith.ac.in/",
+    "logo_source": "https://iith.ac.in/assets/images/horzlogolong.png",
+    "title": "IIT Hyderabad",
+    "homepage_confirmed_on": "2026-11-17"
+  },
+  "iit-jodhpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.523653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitj.ac.in",
+    "logo_source": "https://www.iitj.ac.in/favicon.ico",
+    "title": "",
+    "checked_url": "https://www.iitj.ac.in"
+  },
+  "iit-kanpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.523653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitk.ac.in",
+    "logo_source": "https://www.iitk.ac.in/themes/iitk/assets/img/IITK-half.png",
+    "title": "Indian Institute of Technology Kanpur | IIT Kanpur",
+    "checked_url": "https://www.iitk.ac.in"
+  },
+  "iit-madras": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.523653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitm.ac.in",
+    "logo_source": "https://www.iitm.ac.in/themes/custom/iitm/favicon.ico",
+    "title": "Indian Institute of Technology Madras",
+    "checked_url": "https://www.iitm.ac.in"
+  },
+  "iit-gandhinagar": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:55:54.680229+00:00",
+    "status": "official_confirmed",
+    "website": "https://iitgn.ac.in/",
+    "logo_source": "https://iitgn.ac.in/assets/pdfs/AnnualReport/Annual-Report-2025-26-English-web.pdf",
+    "title": "IIT Gandhinagar",
+    "homepage_confirmed_on": "2026-11-17"
+  },
+  "iit-patna": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.524653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitp.ac.in",
+    "logo_source": "https://www.iitp.ac.in/images/iitp-logo.png",
+    "title": "Indian Institute of Technology Patna",
+    "checked_url": "https://www.iitp.ac.in"
+  },
+  "iit-roorkee": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.524653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitr.ac.in",
+    "logo_source": "https://iitr.ac.in/favicon.ico",
+    "title": "Indian Institute of Technology Roorkee",
+    "checked_url": "https://www.iitr.ac.in"
+  },
+  "iit-ism-dhanbad": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.524653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitism.ac.in",
+    "logo_source": "https://www.iitism.ac.in/images/logo_new%201.png",
+    "title": "INDIAN INSTITUTE OF TECHNOLOGY (INDIAN SCHOOL OF MINES) DHANBAD",
+    "checked_url": "https://www.iitism.ac.in"
+  },
+  "iit-ropar": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.524653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitrpr.ac.in",
+    "logo_source": "https://www.iitrpr.ac.in/img/logos/logo.png",
+    "title": "IIT Ropar",
+    "checked_url": "https://www.iitrpr.ac.in"
+  },
+  "iit-bhu-varanasi": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:20.524653+00:00",
+    "status": "reachable",
+    "website": "https://www.iitbhu.ac.in",
+    "logo_source": "https://www.iitbhu.ac.in/sites/default/files/iitbhu/images/other/iit_logo_original.png",
+    "title": "| Indian Institute of Technology (BHU) Varanasi",
+    "checked_url": "https://www.iitbhu.ac.in"
+  },
+  "iit-guwahati": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.029213+00:00",
+    "status": "reachable",
+    "website": "https://www.iitg.ac.in",
+    "logo_source": "https://www.iitg.ac.in/core/img/iitglogo.jpg",
+    "title": "Indian Institute of Technology Guwahati : भारतीय प्रौद्योगिकी संस्थान गुवाहाटी",
+    "checked_url": "https://www.iitg.ac.in"
+  },
+  "iit-bhilai": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.048213+00:00",
+    "status": "reachable",
+    "website": "https://www.iitbhilai.ac.in",
+    "logo_source": "https://www.iitbhilai.ac.in/index.php?pid=favicon",
+    "title": "IIT Bhilai Main Page",
+    "checked_url": "https://www.iitbhilai.ac.in"
+  },
+  "iit-goa": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.065717+00:00",
+    "status": "reachable",
+    "website": "https://iitgoa.ac.in/",
+    "logo_source": "https://iitgoa.ac.in/wp-content/uploads/iitGoaWebsiteBanner.png",
+    "title": "Indian Institute Of Technology Goa",
+    "checked_url": "https://www.iitgoa.ac.in"
+  },
+  "iit-palakkad": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.078719+00:00",
+    "status": "reachable",
+    "website": "https://iitpkd.ac.in",
+    "logo_source": "https://iitpkd.ac.in/favicon.ico",
+    "title": "Home | IIT Palakkad",
+    "checked_url": "https://iitpkd.ac.in"
+  },
+  "iit-tirupati": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.156731+00:00",
+    "status": "reachable",
+    "website": "https://www.iittp.ac.in",
+    "logo_source": "https://www.iittp.ac.in/assets/img/favicon.ico",
+    "title": "IIT Tirupati",
+    "checked_url": "https://www.iittp.ac.in"
+  },
+  "iit-jammu": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.161728+00:00",
+    "status": "reachable",
+    "website": "https://iitjammu.ac.in",
+    "logo_source": "https://iitjammu.ac.in/favicon.ico",
+    "title": "Indian Institute of Technology Jammu | Leading Engineering Institute for Future Innovators",
+    "checked_url": "https://iitjammu.ac.in"
+  },
+  "iit-dharwad": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.170234+00:00",
+    "status": "reachable",
+    "website": "https://www.iitdh.ac.in",
+    "logo_source": "https://www.iitdh.ac.in/sites/default/files/2024-01/logo_black_final.png",
+    "title": "Indian Institute of Technology Dharwad | IIT Dharwad",
+    "checked_url": "https://www.iitdh.ac.in"
+  },
+  "nit-jalandhar": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.207234+00:00",
+    "status": "reachable",
+    "website": "https://www.nitj.ac.in",
+    "logo_source": "https://www.nitj.ac.in/public/assets/images/nitj-logo.png",
+    "title": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+    "checked_url": "https://www.nitj.ac.in"
+  },
+  "mnit-jaipur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.226234+00:00",
+    "status": "reachable",
+    "website": "https://www.mnit.ac.in",
+    "logo_source": "https://www.mnit.ac.in/Images/Mnit_logo.png",
+    "title": "Malaviya National Institute of Technology Jaipur",
+    "checked_url": "https://www.mnit.ac.in"
+  },
+  "manit-bhopal": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.306742+00:00",
+    "status": "reachable",
+    "website": "https://www.manit.ac.in",
+    "logo_source": "https://www.manit.ac.in/sites/all/themes/manit/favicon.ico",
+    "title": "Maulana Azad National Institute of Technology ,Government of India | An institute of national importance",
+    "checked_url": "https://www.manit.ac.in"
+  },
+  "mnnit-allahabad": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.340742+00:00",
+    "status": "reachable",
+    "website": "https://www.mnnit.ac.in",
+    "logo_source": "https://www.mnnit.ac.in/images/logonew1.png",
+    "title": "MNNIT Allahabad | Motilal Nehru National Institute of Technology Allahabad Prayagraj",
+    "checked_url": "https://www.mnnit.ac.in"
+  },
+  "nit-agartala": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.352744+00:00",
+    "status": "reachable",
+    "website": "https://www.nita.ac.in",
+    "logo_source": "https://www.nita.ac.in/images/logo.png",
+    "title": "National Institute of Technology Agartala",
+    "checked_url": "https://www.nita.ac.in"
+  },
+  "nit-calicut": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.419248+00:00",
+    "status": "reachable",
+    "website": "https://nitc.ac.in/",
+    "logo_source": "https://nitc.ac.in/xc-assets/logo/nitc_logo_icon.svg",
+    "title": "National Institute of Technology",
+    "checked_url": "https://www.nitc.ac.in"
+  },
+  "nit-delhi": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.436248+00:00",
+    "status": "reachable",
+    "website": "https://nitdelhi.ac.in/",
+    "logo_source": "https://media.nitdelhi.ac.in/uploads/web_media/MANDATORY-DISCLOSURES.10.01.2025%40nitdelhi516a04c4-8768-42ee-9271-1a0c7725236a.pdf",
+    "title": "",
+    "checked_url": "https://www.nitdelhi.ac.in"
+  },
+  "nit-durgapur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.475755+00:00",
+    "status": "reachable",
+    "website": "https://nitdgp.ac.in",
+    "logo_source": "https://nitdgp.ac.in/front/assets/images/nitdgp_logo.png",
+    "title": "| NIT Durgapur",
+    "checked_url": "https://nitdgp.ac.in"
+  },
+  "nit-goa": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.498755+00:00",
+    "status": "reachable",
+    "website": "https://www.nitgoa.ac.in",
+    "logo_source": "https://www.nitgoa.ac.in/static/logo_color_5.png",
+    "title": "Welcome To NIT Goa",
+    "checked_url": "https://www.nitgoa.ac.in"
+  },
+  "nit-hamirpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.592276+00:00",
+    "status": "reachable",
+    "website": "https://www.nith.ac.in",
+    "logo_source": "https://www.nith.ac.in/uploads/settings/15808764148265.png",
+    "title": "National Institute of Technology Hamirpur",
+    "checked_url": "https://www.nith.ac.in"
+  },
+  "nit-surathkal": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.616276+00:00",
+    "status": "reachable",
+    "website": "https://www.nitk.ac.in",
+    "logo_source": "https://www.nitk.ac.in/design-system/images/favicon.ico",
+    "title": "National Institute of Technology Karnataka, Surathkal",
+    "checked_url": "https://www.nitk.ac.in"
+  },
+  "nit-meghalaya": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.738790+00:00",
+    "status": "reachable",
+    "website": "https://www.nitm.ac.in",
+    "logo_source": "https://www.nitm.ac.in/img/favicon/apple-icon-57x57.png",
+    "title": "National Institute of Technology Meghalaya",
+    "checked_url": "https://www.nitm.ac.in"
+  },
+  "nit-nagaland": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.738790+00:00",
+    "status": "reachable",
+    "website": "https://www.nitnagaland.ac.in/",
+    "logo_source": "https://www.nitnagaland.ac.in/templates/g5_helium/custom/images/Logo%20Transper.png",
+    "title": "Home",
+    "checked_url": "https://www.nitnagaland.ac.in/"
+  },
+  "nit-patna": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.766298+00:00",
+    "status": "reachable",
+    "website": "https://www.nitp.ac.in",
+    "logo_source": "https://www.nitp.ac.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.0wkg4jthc83lp.png&w=128&q=75",
+    "title": "NIT PATNA | National Institute of Technology Patna",
+    "checked_url": "https://www.nitp.ac.in"
+  },
+  "nit-puducherry": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:55:54.681229+00:00",
+    "status": "official_confirmed",
+    "website": "https://nitpy.ac.in/",
+    "logo_source": "https://www.google.com/s2/favicons?domain=nitpy.ac.in&sz=128",
+    "title": "NIT Puducherry",
+    "homepage_confirmed_on": "2026-11-17"
+  },
+  "nit-raipur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.846298+00:00",
+    "status": "reachable",
+    "website": "https://www.nitrr.ac.in",
+    "logo_source": "https://www.nitrr.ac.in/images/nitrr_new_logo_new.png",
+    "title": "::: National Institute of Technology Raipur :::",
+    "checked_url": "https://www.nitrr.ac.in"
+  },
+  "nit-sikkim": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.972766+00:00",
+    "status": "reachable",
+    "website": "https://nitsikkim.ac.in/",
+    "logo_source": "https://nitsikkim.ac.in/include/header/assets/images/nitLogo.png",
+    "title": "NIT Sikkim | Home",
+    "checked_url": "https://www.nitsikkim.ac.in"
+  },
+  "nit-arunachal-pradesh": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:21.996766+00:00",
+    "status": "reachable",
+    "website": "https://www.nitap.ac.in/",
+    "logo_source": "https://www.nitap.ac.in/images/nitap-logo.png",
+    "title": "NIT Arunachal Pradesh | Institute of National Importance | NIT Arunachal Pradesh (NITAP)",
+    "checked_url": "https://www.nitap.ac.in/"
+  },
+  "nit-jamshedpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.010766+00:00",
+    "status": "reachable",
+    "website": "https://www.nitjsr.ac.in",
+    "logo_source": "https://www.nitjsr.ac.in/logo_final.png",
+    "title": "NIT Jamshedpur | राष्ट्रीय प्रौद्योगिकी संस्थान जमशेदपुर",
+    "checked_url": "https://www.nitjsr.ac.in"
+  },
+  "nit-kurukshetra": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.020766+00:00",
+    "status": "reachable",
+    "website": "https://nitkkr.ac.in/",
+    "logo_source": "https://nitkkr.ac.in/wp-content/uploads/2023/09/cropped-nitlogo-1-180x180.png",
+    "title": "National Institute of Technology, Kurukshetra – India, the land of seekers, is at the cusp of becoming Vishwa Guru all over again after 1100 years of ",
+    "checked_url": "https://www.nitkkr.ac.in"
+  },
+  "nit-manipur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:55:54.681229+00:00",
+    "status": "official_confirmed",
+    "website": "https://new.nitmanipur.ac.in/",
+    "logo_source": "https://nitmanipur.ac.in/images/small-logo.png",
+    "title": "NIT Manipur",
+    "homepage_confirmed_on": "2026-11-17"
+  },
+  "nit-mizoram": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.077273+00:00",
+    "status": "reachable",
+    "website": "https://nitmz.ac.in/",
+    "logo_source": "https://nitmz.ac.in/wp-content/uploads/2024/05/Logo_NITMZ.png",
+    "title": "",
+    "checked_url": "https://www.nitmz.ac.in"
+  },
+  "nit-rourkela": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.120274+00:00",
+    "status": "reachable",
+    "website": "https://www.nitrkl.ac.in",
+    "logo_source": "https://www.nitrkl.ac.in/assets/images/logo.png",
+    "title": "NIT Rourkela",
+    "checked_url": "https://www.nitrkl.ac.in"
+  },
+  "nit-silchar": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.309313+00:00",
+    "status": "reachable",
+    "website": "https://www.nits.ac.in",
+    "logo_source": "https://www.nits.ac.in/images/logo-small.png",
+    "title": "National Institute of Technology Silchar | NITS",
+    "checked_url": "https://www.nits.ac.in"
+  },
+  "nit-srinagar": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.383834+00:00",
+    "status": "reachable",
+    "website": "https://nitsri.ac.in",
+    "logo_source": "https://nitsri.ac.in/upload/mega-menu-logo.png",
+    "title": "NIT Srinagar",
+    "checked_url": "https://nitsri.ac.in"
+  },
+  "nit-trichy": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.395833+00:00",
+    "status": "reachable",
+    "website": "https://www.nitt.edu/home/",
+    "logo_source": "https://www.nitt.edu/cms/templates/neonnitt/images/logo.jpg",
+    "title": "NIT Trichy",
+    "checked_url": "https://www.nitt.edu"
+  },
+  "nit-uttarakhand": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.465341+00:00",
+    "status": "reachable",
+    "website": "https://nituk.ac.in/",
+    "logo_source": "https://nituk.ac.in/nituk/images/nituk_logo.png",
+    "title": "National Institute of Technology, Uttarakhand",
+    "checked_url": "https://www.nituk.ac.in"
+  },
+  "nit-warangal": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.512344+00:00",
+    "status": "reachable",
+    "website": "https://www.nitw.ac.in",
+    "logo_source": "https://www.nitw.ac.in/logo192.png",
+    "title": "NIT Warangal",
+    "checked_url": "https://www.nitw.ac.in"
+  },
+  "svnit-surat": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.513344+00:00",
+    "status": "reachable",
+    "website": "https://www.svnit.ac.in",
+    "logo_source": "https://www.svnit.ac.in/images/logo.png",
+    "title": "SVNIT, Surat",
+    "checked_url": "https://www.svnit.ac.in"
+  },
+  "vnit-nagpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.547343+00:00",
+    "status": "reachable",
+    "website": "https://vnit.ac.in/",
+    "logo_source": "https://vnit.ac.in/wp-content/uploads/2024/02/cropped-VNIT-Logo-180x180.png",
+    "title": "VNIT Nagpur",
+    "checked_url": "https://www.vnit.ac.in"
+  },
+  "nit-andhra-pradesh": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:55:54.681229+00:00",
+    "status": "official_confirmed",
+    "website": "https://nitandhra.ac.in/main/",
+    "logo_source": "https://nitandhra.ac.in/main/assets/images/logo-white.webp",
+    "title": "NIT Andhra Pradesh",
+    "homepage_confirmed_on": "2026-11-17"
+  },
+  "iiit-gwalior": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.594849+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitm.ac.in",
+    "logo_source": "https://www.iiitm.ac.in/public/header_image/1770627993_logo.png",
+    "title": "IIITM Gwalior",
+    "checked_url": "https://www.iiitm.ac.in"
+  },
+  "iiit-kota": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.641849+00:00",
+    "status": "reachable",
+    "website": "https://iiitkota.ac.in/",
+    "logo_source": "https://cdn.iiitkota.ac.in/site/iiitkota.png",
+    "title": "",
+    "checked_url": "https://www.iiitkota.ac.in"
+  },
+  "iiit-guwahati": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.725359+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitg.ac.in/",
+    "logo_source": "https://www.iiitg.ac.in/uploads/2023/08/01/7cb707d8dc0de4a798b10636d76db56c.png",
+    "title": "IIIT Guwahati",
+    "checked_url": "https://www.iiitg.ac.in/"
+  },
+  "iiit-kalyani": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.753357+00:00",
+    "status": "reachable",
+    "website": "https://iiitkalyani.ac.in/",
+    "logo_source": "https://iiitkalyani.ac.in/design/front/assets/images/favicon.ico",
+    "title": "IIIT Kalyani",
+    "checked_url": "https://www.iiitkalyani.ac.in"
+  },
+  "iiit-sonipat": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.835865+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitsonepat.ac.in",
+    "logo_source": "https://www.iiitsonepat.ac.in/assets/logo-Vlr40RHh.png",
+    "title": "IIIT Sonepat",
+    "checked_url": "https://www.iiitsonepat.ac.in"
+  },
+  "iiit-una": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.898373+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitu.ac.in",
+    "logo_source": "https://www.iiitu.ac.in/assets/iiitu-logo-DvoK09sP.png",
+    "title": "Indian Institute of Information Technology Una",
+    "checked_url": "https://www.iiitu.ac.in"
+  },
+  "iiit-sri-city": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.899372+00:00",
+    "status": "reachable",
+    "website": "https://iiits.ac.in/",
+    "logo_source": "https://iiits.ac.in/iiits-content/uploads/2020/04/logo1.png",
+    "title": "Home - Indian Institute of Information Technology",
+    "checked_url": "https://www.iiits.ac.in"
+  },
+  "iiit-vadodara": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:22.925368+00:00",
+    "status": "reachable",
+    "website": "https://iiitvadodara.ac.in/",
+    "logo_source": "https://iiitvadodara.ac.in/assets/img/logo.png",
+    "title": "Welcome to IIIT Vadodara",
+    "checked_url": "https://www.iiitvadodara.ac.in"
+  },
+  "iiit-allahabad": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.040882+00:00",
+    "status": "reachable",
+    "website": "https://www.iiita.ac.in",
+    "logo_source": "https://www.iiita.ac.in//sites/default/files/footer-logo-iita.png",
+    "title": "| Indian Institute of Information Technology, Allahabad",
+    "checked_url": "https://www.iiita.ac.in"
+  },
+  "iiit-kancheepuram": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.054880+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitdm.ac.in",
+    "logo_source": "https://www.iiitdm.ac.in/_app/immutable/assets/logo.589b5376.webp",
+    "title": "IIITDM Kancheepuram",
+    "checked_url": "https://www.iiitdm.ac.in"
+  },
+  "iiit-jabalpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.113389+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitdmj.ac.in",
+    "logo_source": "https://www.iiitdmj.ac.in/img/title14.jpg",
+    "title": "IIITDM Jabalpur",
+    "checked_url": "https://www.iiitdmj.ac.in"
+  },
+  "iiit-manipur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.172908+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitmanipur.ac.in",
+    "logo_source": "https://www.iiitmanipur.ac.in/img/iiitm-logo.png",
+    "title": "Home | IIIT Manipur",
+    "checked_url": "https://www.iiitmanipur.ac.in"
+  },
+  "iiit-tiruchirappalli": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.216905+00:00",
+    "status": "reachable",
+    "website": "https://iiitt.ac.in",
+    "logo_source": "https://iiitt.ac.in/_next/image?url=http%3A%2F%2Fstore.iiitt.ac.in%2Fimages%2Fiiitt-logo.png&w=96&q=75",
+    "title": "",
+    "checked_url": "https://iiitt.ac.in"
+  },
+  "iiit-lucknow": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.242903+00:00",
+    "status": "reachable",
+    "website": "https://iiitl.ac.in/",
+    "logo_source": "https://iiitl.ac.in/wp-content/uploads/2019/10/Final_Logo_IIITL-800x718.png",
+    "title": "Indian Institute of Information Technology, Lucknow",
+    "checked_url": "https://iiitl.ac.in/"
+  },
+  "iiit-dharwad": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.299410+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitdwd.ac.in",
+    "logo_source": "https://www.iiitdwd.ac.in/_next/static/media/Logo.7fbb41d4.webp",
+    "title": "IIIT Dharwad",
+    "checked_url": "https://www.iiitdwd.ac.in"
+  },
+  "iiitdm-kurnool": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.448938+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitk.ac.in",
+    "logo_source": "https://www.iiitk.ac.in/images/logo/logo_white.png",
+    "title": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY KURNOOL",
+    "checked_url": "https://www.iiitk.ac.in"
+  },
+  "iiit-kottayam": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.640983+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitkottayam.ac.in/",
+    "logo_source": "https://www.iiitkottayam.ac.in/data/images/main/logo-mini.png",
+    "title": "IIIT Kottayam",
+    "checked_url": "https://www.iiitkottayam.ac.in/"
+  },
+  "iiit-ranchi": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.667490+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitranchi.ac.in",
+    "logo_source": "https://www.iiitranchi.ac.in/images/logo.png",
+    "title": "Welcome | IIIT Ranchi: Indian Institute of Information Technology, (an Institution of National Importance under MoE, Govt. of India)",
+    "checked_url": "https://www.iiitranchi.ac.in"
+  },
+  "iiit-nagpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.741493+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitn.ac.in",
+    "logo_source": "https://iiitn.ac.in/media/818b135d91ef496ca2c647dec6df5e6a.pdf",
+    "title": "Indian Institute of Information Technology Nagpur",
+    "checked_url": "https://www.iiitn.ac.in"
+  },
+  "iiit-pune": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.760500+00:00",
+    "status": "reachable",
+    "website": "https://iiitp.ac.in/",
+    "logo_source": "https://iiitp.ac.in/iiitp-logo.png",
+    "title": "IIIT Pune, An Institute of National Importance",
+    "checked_url": "https://iiitp.ac.in/"
+  },
+  "iiit-bhagalpur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.913532+00:00",
+    "status": "reachable",
+    "website": "https://iiitbh.ac.in/",
+    "logo_source": "https://iiitbh.ac.in/sites/default/files/IIITBH-WEBPAGE-HEADER.png",
+    "title": "Home | Indian Institute of Information Technology Bhagalpur",
+    "checked_url": "https://iiitbh.ac.in/"
+  },
+  "iiit-bhopal": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.934529+00:00",
+    "status": "reachable",
+    "website": "https://iiitbhopal.ac.in",
+    "logo_source": "https://iiitbhopal.ac.in/assets/images/favicon.png",
+    "title": "IIIT Bhopal",
+    "checked_url": "https://iiitbhopal.ac.in"
+  },
+  "iiit-surat": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:23.958535+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitsurat.ac.in",
+    "logo_source": "https://www.iiitsurat.ac.in/favicon.ico",
+    "title": "Indian Institute of Information Technology Surat",
+    "checked_url": "https://www.iiitsurat.ac.in"
+  },
+  "iiit-agartala": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:24.009047+00:00",
+    "status": "reachable",
+    "website": "https://iiitagartala.ac.in/",
+    "logo_source": "https://iiitagartala.ac.in/assets/images/logo.webp",
+    "title": "Indian Institute of Information Technology, Agartala – IIIT Agartala",
+    "checked_url": "https://www.iiitagartala.ac.in/"
+  },
+  "iiit-raichur": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:46:24.025047+00:00",
+    "status": "reachable",
+    "website": "https://iiitr.ac.in",
+    "logo_source": "https://iiitr.ac.in/assets/images/logo.png",
+    "title": "Home | Indian Institute of Information Technology Raichur",
+    "checked_url": "https://iiitr.ac.in"
+  },
+  "iiit-vadodara-international-campus-diu": {
+    "registry_url": "https://josaa.admissions.nic.in/applicant/seatmatrix/instituteview.aspx",
+    "checked_on": "2026-11-17T03:55:54.681229+00:00",
+    "status": "unavailable",
+    "website": "https://diu.iiitvadodara.ac.in/",
+    "logo_source": "https://diumoodle.iiitvadodara.ac.in/pluginfile.php/1/core_admin/favicon/64x64/1768977197/Logo5.png"
+  },
+  "aligarh-muslim-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:55:54.681229+00:00",
+    "status": "official_confirmed",
+    "website": "https://www.amu.ac.in/?v=1.0.24",
+    "logo_source": "https://digital.amu.ac.in/assets/img/LOGO2.png",
+    "title": "Aligarh Muslim University",
+    "homepage_confirmed_on": "2026-11-17"
+  },
+  "assam-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.221093+00:00",
+    "status": "reachable",
+    "website": "https://www.aus.ac.in/",
+    "logo_source": "https://www.aus.ac.in/wp-content/uploads/2026/08/logo_140x66_white.png",
+    "title": "Assam University",
+    "checked_url": "https://www.aus.ac.in/"
+  },
+  "babasaheb-bhimrao-ambedkar-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.244092+00:00",
+    "status": "reachable",
+    "website": "https://www.bbau.ac.in",
+    "logo_source": "https://www.bbau.ac.in/bbau/bbauLogo.png",
+    "title": "Home",
+    "checked_url": "https://www.bbau.ac.in"
+  },
+  "bhu": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.292640+00:00",
+    "status": "reachable",
+    "website": "https://www.bhu.ac.in/Site/Home/1_2_7047_Main-Site",
+    "logo_source": "https://www.bhu.ac.in/Scripts/SitesBhu/images/logo.png",
+    "title": "Home - Banaras Hindu University, Varanasi, India.",
+    "checked_url": "https://www.bhu.ac.in"
+  },
+  "central-agricultural-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.317639+00:00",
+    "status": "reachable",
+    "website": "https://cau.ac.in/",
+    "logo_source": "https://cau.ac.in/wp-content/uploads/2020/12/caulogo.png",
+    "title": "Official Website – – CAU Lamphelpat, Manipur",
+    "checked_url": "https://cau.ac.in/"
+  },
+  "central-sanskrit-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.331638+00:00",
+    "status": "reachable",
+    "website": "https://www.sanskrit.nic.in/",
+    "logo_source": "https://www.sanskrit.nic.in/favicon/apple-touch-icon.png",
+    "title": "Central Sanskrit University",
+    "checked_url": "https://www.sanskrit.nic.in/"
+  },
+  "central-tribal-university-of-andhra-pradesh": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.484671+00:00",
+    "status": "reachable",
+    "website": "https://www.ctuap.ac.in/",
+    "logo_source": "https://www.ctuap.ac.in/wp-content/uploads/2022/01/cropped-ctu-Logo-final-180x180.jpeg",
+    "title": "Central Tribal University of Andhra Pradesh",
+    "checked_url": "https://www.ctuap.ac.in/"
+  },
+  "central-university-of-andhra-pradesh": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.612193+00:00",
+    "status": "reachable",
+    "website": "https://cuap.ac.in/",
+    "logo_source": "https://i0.wp.com/cuap.ac.in/wp-content/uploads/2024/06/favicon.png?fit=180%2C180&ssl=1",
+    "title": "Central University of Andhra Pradesh |",
+    "checked_url": "https://www.cuap.ac.in/"
+  },
+  "central-university-of-gujarat": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.639193+00:00",
+    "status": "reachable",
+    "website": "https://www.cug.ac.in",
+    "logo_source": "https://www.cug.ac.in/images/favicon.ico",
+    "title": "Central University of Gujarat - Premier Central University in Vadodara - Gujarat - India",
+    "checked_url": "https://www.cug.ac.in"
+  },
+  "central-university-of-haryana": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.667699+00:00",
+    "status": "reachable",
+    "website": "https://www.cuh.ac.in",
+    "logo_source": "https://www.cuh.ac.in/logo6.png",
+    "title": "Central University of Haryana | CUH | Home",
+    "checked_url": "https://www.cuh.ac.in"
+  },
+  "central-university-of-himachal-pradesh": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.709698+00:00",
+    "status": "reachable",
+    "website": "https://www.cuhimachal.ac.in",
+    "logo_source": "https://www.cuhimachal.ac.in/asset/images/header%2002.png",
+    "title": "Central University of Himachal Pradesh",
+    "checked_url": "https://www.cuhimachal.ac.in"
+  },
+  "central-university-of-jammu": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.732700+00:00",
+    "status": "reachable",
+    "website": "https://www.cujammu.ac.in",
+    "logo_source": "https://www.cujammu.ac.in/static/homepage/images/header/logocuj.jpg",
+    "title": "Welcome to Central University of Jammu",
+    "checked_url": "https://www.cujammu.ac.in"
+  },
+  "central-university-of-jharkhand": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:24.796213+00:00",
+    "status": "reachable",
+    "website": "https://www.cuj.ac.in",
+    "logo_source": "https://www.cuj.ac.in/img/CUJLOGO.png",
+    "title": "The Central University of Jharkhand",
+    "checked_url": "https://www.cuj.ac.in"
+  },
+  "central-university-of-karnataka": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.000259+00:00",
+    "status": "reachable",
+    "website": "https://www.cuk.ac.in",
+    "logo_source": "https://cms.api.cuk.ac.in/uploads/2026/06/b1e5e6865e1e415ea42641eab76e1cbc.jpg",
+    "title": "Home",
+    "checked_url": "https://www.cuk.ac.in"
+  },
+  "central-university-of-kashmir": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.056267+00:00",
+    "status": "reachable",
+    "website": "https://www.cukashmir.ac.in",
+    "logo_source": "https://www.cukashmir.ac.in/favicon.ico",
+    "title": "Central University of Kashmir",
+    "checked_url": "https://www.cukashmir.ac.in"
+  },
+  "central-university-of-kerala": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.162787+00:00",
+    "status": "reachable",
+    "website": "https://www.cukerala.ac.in/",
+    "logo_source": "https://www.cukerala.ac.in/assets/img/favicon.png",
+    "title": "Central University of Kerala",
+    "checked_url": "https://www.cukerala.ac.in/"
+  },
+  "central-university-of-odisha": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.214301+00:00",
+    "status": "reachable",
+    "website": "https://cuo.ac.in/",
+    "logo_source": "https://cuo.ac.in/images/logo-sm.jpg",
+    "title": "Central University of Odisha (CUO)",
+    "checked_url": "https://cuo.ac.in/"
+  },
+  "central-university-of-punjab": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.243300+00:00",
+    "status": "reachable",
+    "website": "https://www.cup.edu.in/",
+    "logo_source": "https://www.cup.edu.in/sites/default/files/New_Logo_CUP_1.jpg",
+    "title": "Home 2 | Central University of Punjab",
+    "checked_url": "https://www.cup.edu.in/"
+  },
+  "central-university-of-rajasthan": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.413346+00:00",
+    "status": "reachable",
+    "website": "https://www.curaj.ac.in",
+    "logo_source": "https://www.curaj.ac.in/sites/default/files/curaj-logo.png",
+    "title": "Home | Central University of Rajasthan",
+    "checked_url": "https://www.curaj.ac.in"
+  },
+  "central-university-of-south-bihar": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.502869+00:00",
+    "status": "reachable",
+    "website": "https://www.cusb.ac.in/",
+    "logo_source": "https://cusb.ac.in/images/cusb/logo-new1.png",
+    "title": "About University - Central University of South Bihar, Gaya, Bihar",
+    "checked_url": "https://www.cusb.ac.in/"
+  },
+  "central-university-of-tamil-nadu": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.726916+00:00",
+    "status": "reachable",
+    "website": "https://cutn.ac.in/",
+    "logo_source": "https://cutn.ac.in/wp-content/uploads/2023/07/new-logo1.png",
+    "title": "Central University of Tamilnadu",
+    "checked_url": "https://cutn.ac.in/"
+  },
+  "dr-harisingh-gour-vishwavidyalaya": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.748915+00:00",
+    "status": "reachable",
+    "website": "https://dhsgsu.edu.in/index.php/en/",
+    "logo_source": "https://dhsgsu.edu.in/images/logo-new.png",
+    "title": "Home - Dr. Harisingh Gour Vishwavidyalaya Sagar",
+    "checked_url": "https://dhsgsu.edu.in/"
+  },
+  "dr-rajendra-prasad-central-agricultural-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.938138+00:00",
+    "status": "reachable",
+    "website": "https://rpcau.ac.in/",
+    "logo_source": "https://rpcau.ac.in/wp-content/uploads/2023/08/Logo-png-formatwhite-background-copy-2.png",
+    "title": "Home - Dr. Rajendra Prasad Central Agricultural University",
+    "checked_url": "https://www.rpcau.ac.in/"
+  },
+  "english-foreign-languages-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:25.965145+00:00",
+    "status": "reachable",
+    "website": "https://www.efluniversity.ac.in/",
+    "logo_source": "https://efluniversity.ac.in/new-design-assets/images/efl_logo.png",
+    "title": "EFL University - EFLU",
+    "checked_url": "https://www.efluniversity.ac.in/"
+  },
+  "gati-shakti-vishwavidyalaya": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.041657+00:00",
+    "status": "reachable",
+    "website": "https://gsv.ac.in/",
+    "logo_source": "https://www.gsv.ac.in/themes/demo/assets/images/gs/Site%20Logo/site_logo.jpg",
+    "title": "Gati Shakti Vishwavidyalaya",
+    "checked_url": "https://gsv.ac.in/"
+  },
+  "guru-ghasidas-vishwavidyalaya": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.132177+00:00",
+    "status": "reachable",
+    "website": "https://www.ggu.ac.in",
+    "logo_source": "https://www.ggu.ac.in/media/BasePageImage/ggvlogo.png",
+    "title": "Guru Ghasidas Vishwavidyalaya, Bilaspur",
+    "checked_url": "https://www.ggu.ac.in"
+  },
+  "hemvati-nandan-bahuguna-garhwal-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.252708+00:00",
+    "status": "reachable",
+    "website": "https://www.hnbgu.ac.in/",
+    "logo_source": "https://www.hnbgu.ac.in/sites/default/files/HNBG-new-logo.png",
+    "title": "Home | Hemvati Nandan Bahuguna Garhwal University",
+    "checked_url": "https://www.hnbgu.ac.in/"
+  },
+  "indian-maritime-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.320220+00:00",
+    "status": "reachable",
+    "website": "https://www.imu.edu.in/imunew/",
+    "logo_source": "https://www.imu.edu.in/imunew/public/css/images/IMU_Logo.png",
+    "title": "Indian Maritime University",
+    "checked_url": "https://www.imu.edu.in/"
+  },
+  "indira-gandhi-national-open-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.367743+00:00",
+    "status": "reachable",
+    "website": "https://www.ignou.ac.in",
+    "logo_source": "https://www.ignou.ac.in/assets/img/favicon.png",
+    "title": "IGNOU",
+    "checked_url": "https://www.ignou.ac.in"
+  },
+  "jamia-millia-islamia": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.456750+00:00",
+    "status": "reachable",
+    "website": "https://jmi.ac.in/",
+    "logo_source": "https://www.jmi.ac.in/assets/images/logo/favicon.svg",
+    "title": "Official Website of Jamia Millia Islamia - Jamia Millia Islamia",
+    "checked_url": "https://jmi.ac.in/"
+  },
+  "jnu": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.510263+00:00",
+    "status": "reachable",
+    "website": "https://www.jnu.ac.in",
+    "logo_source": "https://www.jnu.ac.in/core/misc/favicon.ico",
+    "title": "Home | Official Website of Jawaharlal Nehru University, New Delhi, India",
+    "checked_url": "https://www.jnu.ac.in"
+  },
+  "mahatma-gandhi-antarrashtriya-hindi-vishwavidyalaya": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.652793+00:00",
+    "status": "reachable",
+    "website": "https://hindivishwa.org/",
+    "logo_source": "https://hindivishwa.org/pdf/Tender_Document_Interior_Works_new.pdf",
+    "title": "Welcome To MGAHV",
+    "checked_url": "https://hindivishwa.org/"
+  },
+  "mahatma-gandhi-central-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.684294+00:00",
+    "status": "reachable",
+    "website": "https://www.mgcub.ac.in/",
+    "logo_source": "https://www.mgcub.ac.in/images/rotate.png",
+    "title": "Mahatma Gandhi Central University, Motihari (Bihar) | Mahatma Gandhi Central University",
+    "checked_url": "https://www.mgcub.ac.in/"
+  },
+  "manipur-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.712297+00:00",
+    "status": "reachable",
+    "website": "https://www.manipuruniv.ac.in/",
+    "logo_source": "https://www.manipuruniv.ac.in/upload/999998headinglogo.png",
+    "title": "Manipur University",
+    "checked_url": "https://www.manipuruniv.ac.in/"
+  },
+  "maulana-azad-national-urdu-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.735297+00:00",
+    "status": "reachable",
+    "website": "https://manuu.edu.in/",
+    "logo_source": "https://manuu.edu.in/sites/default/files/MANUU-LOGO-Finalcopy1_0.jpg",
+    "title": "MANUU Home | Maulana Azad National Urdu University | MANUU",
+    "checked_url": "https://manuu.edu.in/"
+  },
+  "mizoram-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.773816+00:00",
+    "status": "reachable",
+    "website": "https://mzu.edu.in/",
+    "logo_source": "https://mzu.edu.in/wp-content/uploads/2020/05/cropped-MZU-LOGO-2001-new-180x180.png",
+    "title": "Mizoram University",
+    "checked_url": "https://mzu.edu.in/"
+  },
+  "nagaland-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.875340+00:00",
+    "status": "reachable",
+    "website": "https://nagalanduniversity.ac.in/",
+    "logo_source": "https://nagalanduniversity.ac.in/_next/image?url=%2Fassets%2Flogos%2Fnu-logo.png&w=256&q=75",
+    "title": "Nagaland University",
+    "checked_url": "https://nagalanduniversity.ac.in/"
+  },
+  "nalanda-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.907336+00:00",
+    "status": "reachable",
+    "website": "https://nalandauniv.edu.in/",
+    "logo_source": "https://nalandauniv.edu.in/wp-content/uploads/2019/06/nu-logo-footer.png",
+    "title": "Nalanda University | Home - Nalanda University",
+    "checked_url": "https://nalandauniv.edu.in/"
+  },
+  "national-sanskrit-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.913339+00:00",
+    "status": "reachable",
+    "website": "https://nsktu.ac.in",
+    "logo_source": "https://nsktu.ac.in/storage/2022/10/kksu-logo-300x150.jpg",
+    "title": "",
+    "checked_url": "https://nsktu.ac.in"
+  },
+  "national-sports-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:26.994849+00:00",
+    "status": "reachable",
+    "website": "https://www.nsu.ac.in/",
+    "logo_source": "https://www.nsu.ac.in/sites/all/themes/nsu/images/logo.png",
+    "title": "National Sports University, Government of India",
+    "checked_url": "https://www.nsu.ac.in/"
+  },
+  "north-eastern-hill-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:27.139369+00:00",
+    "status": "reachable",
+    "website": "https://www.nehu.ac.in",
+    "logo_source": "https://nehu.ac.in/public/assets/images/logo_bw.png",
+    "title": "NEHU",
+    "checked_url": "https://www.nehu.ac.in"
+  },
+  "pondicherry-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:27.167891+00:00",
+    "status": "reachable",
+    "website": "https://www.pondiuni.edu.in",
+    "logo_source": "https://www.pondiuni.edu.in/wp-content/uploads/2020/05/PU_Logo-BG-White.png",
+    "title": "Pondicherry University",
+    "checked_url": "https://www.pondiuni.edu.in"
+  },
+  "rajiv-gandhi-national-aviation-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:27.184891+00:00",
+    "status": "reachable",
+    "website": "https://www.rgnau.ac.in/",
+    "logo_source": "https://www.rgnau.ac.in/sites/default/files/logo.png",
+    "title": "",
+    "checked_url": "https://www.rgnau.ac.in/"
+  },
+  "rajiv-gandhi-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:27.387940+00:00",
+    "status": "reachable",
+    "website": "https://www.rgu.ac.in",
+    "logo_source": "https://www.rgu.ac.in/uploads/settings/logo/logo_1769420196.png",
+    "title": "Home | Rajiv Gandhi University, Arunachal Pradesh",
+    "checked_url": "https://www.rgu.ac.in"
+  },
+  "rani-lakshmi-bai-central-agricultural-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:27.407941+00:00",
+    "status": "reachable",
+    "website": "https://rlbcau.ac.in/",
+    "logo_source": "https://rlbcau.ac.in/wp-content/uploads/2024/02/logo-102x101.png",
+    "title": "Home - Rani Lakshmi Bai Central Agricultural University, Jhansi",
+    "checked_url": "https://rlbcau.ac.in/"
+  },
+  "sammakka-sarakka-central-tribal-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:27.752520+00:00",
+    "status": "reachable",
+    "website": "https://ssctu.ac.in/",
+    "logo_source": "https://ssctu.ac.in/wp-content/uploads/2026/08/ssctu-logo01.png",
+    "title": "Home | Welcome to Sammakka Sarakka Central Tribal University - SSCTU",
+    "checked_url": "https://ssctu.ac.in/"
+  },
+  "shri-lal-bahadur-shastri-national-sanskrit-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:27.777033+00:00",
+    "status": "reachable",
+    "website": "https://www.slbsrsv.ac.in",
+    "logo_source": "https://www.slbsrsv.ac.in/sites/default/files/uploadfiles/slbs-logo-may1.png",
+    "title": "Home | Shri Lal Bahadur Shastri National Sanskrit University",
+    "checked_url": "https://www.slbsrsv.ac.in"
+  },
+  "sikkim-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:27.994083+00:00",
+    "status": "reachable",
+    "website": "https://cus.ac.in/index.php/en/",
+    "logo_source": "https://cus.ac.in/images/logo.png#joomlaImage://local-images/logo.png?width=453&height=76",
+    "title": "Sikkim University",
+    "checked_url": "https://cus.ac.in/"
+  },
+  "sindhu-central-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:55:54.681229+00:00",
+    "status": "official_confirmed",
+    "website": "https://www.sindhucu.ac.in/",
+    "logo_source": "https://sindhucu.ac.in/img/SCU/logo-300x111.png",
+    "title": "Sindhu Central University",
+    "homepage_confirmed_on": "2026-11-17"
+  },
+  "south-asian-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:28.080605+00:00",
+    "status": "reachable",
+    "website": "https://sau.int/",
+    "logo_source": "https://sau.int/wp-content/themes/sau/ae/images/sau-white-logo.png",
+    "title": "South Asian U",
+    "checked_url": "https://sau.int/"
+  },
+  "tezu": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:28.111605+00:00",
+    "status": "reachable",
+    "website": "https://www.tezu.ernet.in/",
+    "logo_source": "https://www.tezu.ernet.in/design/images/logo.png",
+    "title": "Tezpur University,Tezpur,Assam,India,Pin 784028,A Central University",
+    "checked_url": "https://www.tezu.ernet.in/"
+  },
+  "the-indira-gandhi-national-tribal-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:28.217128+00:00",
+    "status": "reachable",
+    "website": "https://www.igntu.ac.in/",
+    "logo_source": "https://www.igntu.ac.in/images/logo_igntu.png",
+    "title": "IGNTU Amarkantak",
+    "checked_url": "https://www.igntu.ac.in/"
+  },
+  "tripura-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:28.313656+00:00",
+    "status": "reachable",
+    "website": "https://tripurauniv.ac.in/",
+    "logo_source": "https://tripurauniv.ac.in/site/images/pdf/prospectus_2025-26.pdf",
+    "title": "",
+    "checked_url": "https://tripurauniv.ac.in/"
+  },
+  "university-of-allahabad": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:28.379179+00:00",
+    "status": "reachable",
+    "website": "https://allduniv.ac.in/",
+    "logo_source": "https://allduniv.ac.in/assets/frontend/img/home/au_logo.png",
+    "title": "University of Allahabad",
+    "checked_url": "https://allduniv.ac.in/"
+  },
+  "delhi-university": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:28.551704+00:00",
+    "status": "reachable",
+    "website": "https://www.du.ac.in",
+    "logo_source": "https://www.du.ac.in/uploads/du/images/logo-du.png",
+    "title": "Home - Delhi University",
+    "checked_url": "https://www.du.ac.in"
+  },
+  "uoh": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:28.614227+00:00",
+    "status": "reachable",
+    "website": "https://www.uohyd.ac.in",
+    "logo_source": "https://www.uohyd.ac.in/images/logo/uoh-logo.png",
+    "title": "University of Hyderabad | India's Institution of Eminence",
+    "checked_url": "https://www.uohyd.ac.in"
+  },
+  "visva-bharati": {
+    "registry_url": "https://www.ugc.gov.in/universitydetails/university?type=ddmCMsxJZgXH2S%2Fm0uMOKQ%3D%3D",
+    "checked_on": "2026-11-17T03:46:28.643225+00:00",
+    "status": "reachable",
+    "website": "https://www.visvabharati.ac.in/",
+    "logo_source": "https://www.visvabharati.ac.in/images/favicon.ico",
+    "title": "Visva Bharati",
+    "checked_url": "https://visvabharati.ac.in/"
+  },
+  "iiit-delhi": {
+    "registry_url": "https://iiitd.ac.in/",
+    "checked_on": "2026-11-17T03:46:28.694746+00:00",
+    "status": "reachable",
+    "website": "https://iiitd.ac.in/",
+    "logo_source": "https://iiitd.ac.in/sites/default/files/style1coloricon_0.png",
+    "title": "IIIT-Delhi",
+    "checked_url": "https://iiitd.ac.in/"
+  },
+  "iiit-hyderabad": {
+    "registry_url": "https://www.iiit.ac.in/",
+    "checked_on": "2026-11-17T03:46:28.892446+00:00",
+    "status": "reachable",
+    "website": "https://www.iiit.ac.in/",
+    "logo_source": "https://www.iiit.ac.in/wp-content/uploads/2022/07/cropped-IIIT-Favicon-180x180.png",
+    "title": "Home - IIIT Hyderabad",
+    "checked_url": "https://www.iiit.ac.in/"
+  },
+  "iiit-bangalore": {
+    "registry_url": "https://www.iiitb.ac.in/",
+    "checked_on": "2026-11-17T03:46:28.967966+00:00",
+    "status": "reachable",
+    "website": "https://www.iiitb.ac.in/",
+    "logo_source": "https://www.iiitb.ac.in/includes/images/IIITB_footer_logo.png",
+    "title": "International Institute of Information Technology Bangalore",
+    "checked_url": "https://www.iiitb.ac.in/"
+  },
+  "iiit-bhubaneswar": {
+    "registry_url": "https://www.iiit-bh.ac.in/",
+    "checked_on": "2026-11-17T03:46:28.984966+00:00",
+    "status": "reachable",
+    "website": "https://www.iiit-bh.ac.in/",
+    "logo_source": "https://www.iiit-bh.ac.in/wp-content/uploads/2024/common-file/favicon.png",
+    "title": "IIIT Bhubaneswar",
+    "checked_url": "https://www.iiit-bh.ac.in/"
+  },
+  "iiit-naya-raipur": {
+    "registry_url": "https://www.iiitnr.edu.in/",
+    "checked_on": "2026-11-17T03:55:54.758744+00:00",
+    "status": "unavailable",
+    "website": "https://www.iiitnr.ac.in/",
+    "logo_source": "https://ims.iiitnr.edu.in/JRF_SURED/Documents/JRF_Notification.pdf"
+  }
+}

@@ -1,0 +1,58 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_USER: ajora
+      POSTGRES_PASSWORD: ajora_local
+      POSTGRES_DB: ajora
+    volumes:
+      - ajora-postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ajora -d ajora"]
+      interval: 5s
+      timeout: 3s
+      retries: 12
+
+  redis:
+    image: redis:7-alpine
+
+  api:
+    build: ./api
+    environment: &api_environment
+      DATABASE_URL: postgresql+psycopg://ajora:ajora_local@postgres:5432/ajora
+      REDIS_URL: redis://redis:6379/0
+      AJORA_LOCAL_DEMO: "1"
+      AJORA_ADMIN_TOKEN: ${AJORA_ADMIN_TOKEN:-}
+      AJORA_REFRESH_TOKEN: ${AJORA_REFRESH_TOKEN:-}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      AJORA_GEMINI_FREE_TIER: ${AJORA_GEMINI_FREE_TIER:-0}
+      AJORA_PUBLIC_URL: http://localhost:3000
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "from urllib.request import urlopen; urlopen('http://127.0.0.1:8000/api/health', timeout=3)"]
+      interval: 5s
+      timeout: 5s
+      retries: 12
+
+  worker:
+    build: ./api
+    environment: *api_environment
+    command: ["celery", "-A", "ajora.worker:worker", "worker", "--beat", "--concurrency=1", "--loglevel=INFO"]
+    depends_on:
+      api:
+        condition: service_healthy
+      redis:
+        condition: service_started
+
+  web:
+    build: ./web
+    ports:
+      - "127.0.0.1:3000:3000"
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  ajora-postgres:

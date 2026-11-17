@@ -1,0 +1,512 @@
+{
+  "iit-bhubaneswar": {
+    "about_url": "https://www.iitbbs.ac.in/index.php/home/academics-about/",
+    "logo_source": "https://www.iitbbs.ac.in/wp-content/uploads/2023/06/iitb_bhubaneswar_logo.png"
+  },
+  "iit-bombay": {
+    "introduction": "IIT Bombay is a public engineering and research institute in Powai, Mumbai. Parliament designated it an Institute of National Importance in 1961.",
+    "about_url": "https://www.iitb.ac.in/about",
+    "logo_source": "https://www.iitb.ac.in/sites/default/files/IITBLogo.png"
+  },
+  "iit-mandi": {
+    "logo_source": "https://cce.iitmandi.ac.in/images/favicon.ico"
+  },
+  "iit-delhi": {
+    "logo_source": "https://home.iitd.ac.in/images/preloaders/logo.png"
+  },
+  "iit-indore": {
+    "about_url": "https://www.iiti.ac.in/about",
+    "logo_source": "https://www.iiti.ac.in/images/logo.png"
+  },
+  "iit-kharagpur": {
+    "logo_source": "https://student.iitkgp.ac.in/docs/UGAdmManual2024.pdf"
+  },
+  "iit-hyderabad": {
+    "introduction": "IIT Hyderabad is an engineering and research institute at Kandi in Sangareddy district, Telangana.",
+    "logo_source": "https://iith.ac.in/assets/images/horzlogolong.png"
+  },
+  "iit-jodhpur": {
+    "logo_source": "https://www.iitj.ac.in/favicon.ico"
+  },
+  "iit-kanpur": {
+    "logo_source": "https://www.iitk.ac.in/themes/iitk/assets/img/IITK-half.png"
+  },
+  "iit-madras": {
+    "introduction": "IIT Madras is a public technical and research institute in Chennai. Its academic departments cover engineering, basic sciences and related fields.",
+    "about_url": "https://www.iitm.ac.in/academics/overview",
+    "logo_source": "https://www.iitm.ac.in/themes/custom/iitm/favicon.ico"
+  },
+  "iit-gandhinagar": {
+    "logo_source": "https://iitgn.ac.in/assets/pdfs/AnnualReport/Annual-Report-2025-26-English-web.pdf"
+  },
+  "iit-patna": {
+    "introduction": "IIT Patna is a centrally established technical institute in Bihta, near Patna. It offers higher education and research in engineering, science and technology.",
+    "about_url": "https://www.iitp.ac.in/about",
+    "logo_source": "https://www.iitp.ac.in/images/iitp-logo.png"
+  },
+  "iit-roorkee": {
+    "about_url": "https://iitr.ac.in/Institute/About the Institute/index.html",
+    "logo_source": "https://iitr.ac.in/favicon.ico"
+  },
+  "iit-ism-dhanbad": {
+    "about_url": "https://www.iitism.ac.in/about-overview",
+    "logo_source": "https://www.iitism.ac.in/images/logo_new%201.png"
+  },
+  "iit-ropar": {
+    "logo_source": "https://www.iitrpr.ac.in/img/logos/logo.png"
+  },
+  "iit-bhu-varanasi": {
+    "about_url": "https://www.iitbhu.ac.in/dean/dora/about_connect",
+    "logo_source": "https://www.iitbhu.ac.in/sites/default/files/iitbhu/images/other/iit_logo_original.png"
+  },
+  "iit-guwahati": {
+    "introduction": "IIT Guwahati was established in 1994 and began academic teaching in 1995. Its campus is in Guwahati, Assam.",
+    "logo_source": "https://www.iitg.ac.in/core/img/iitglogo.jpg"
+  },
+  "iit-bhilai": {
+    "logo_source": "https://www.iitbhilai.ac.in/index.php?pid=favicon"
+  },
+  "iit-goa": {
+    "logo_source": "https://iitgoa.ac.in/wp-content/uploads/iitGoaWebsiteBanner.png"
+  },
+  "iit-palakkad": {
+    "about_url": "https://iitpkd.ac.in/",
+    "logo_source": "https://iitpkd.ac.in/favicon.ico"
+  },
+  "iit-tirupati": {
+    "logo_source": "https://www.iittp.ac.in/assets/img/favicon.ico"
+  },
+  "iit-jammu": {
+    "logo_source": "https://iitjammu.ac.in/favicon.ico"
+  },
+  "iit-dharwad": {
+    "about_url": "https://www.iitdh.ac.in/about-us",
+    "logo_source": "https://www.iitdh.ac.in/sites/default/files/2024-01/logo_black_final.png"
+  },
+  "nit-jalandhar": {
+    "logo_source": "https://www.nitj.ac.in/public/assets/images/nitj-logo.png"
+  },
+  "mnit-jaipur": {
+    "logo_source": "https://www.mnit.ac.in/Images/Mnit_logo.png"
+  },
+  "manit-bhopal": {
+    "about_url": "https://www.manit.ac.in/about-us",
+    "logo_source": "https://www.manit.ac.in/sites/all/themes/manit/favicon.ico"
+  },
+  "mnnit-allahabad": {
+    "about_url": "https://www.mnnit.ac.in/institute/about-us",
+    "logo_source": "https://www.mnnit.ac.in/images/logonew1.png"
+  },
+  "nit-agartala": {
+    "logo_source": "https://www.nita.ac.in/images/logo.png"
+  },
+  "nit-calicut": {
+    "about_url": "https://nitc.ac.in/administration-overview",
+    "logo_source": "https://nitc.ac.in/xc-assets/logo/nitc_logo_icon.svg"
+  },
+  "nit-delhi": {
+    "introduction": "NIT Delhi is a public technical institute and Institute of National Importance. It offers undergraduate, postgraduate and doctoral engineering programmes.",
+    "logo_source": "https://media.nitdelhi.ac.in/uploads/web_media/MANDATORY-DISCLOSURES.10.01.2025%40nitdelhi516a04c4-8768-42ee-9271-1a0c7725236a.pdf"
+  },
+  "nit-durgapur": {
+    "about_url": "https://nitdgp.ac.in/p/about-us-3",
+    "logo_source": "https://nitdgp.ac.in/front/assets/images/nitdgp_logo.png"
+  },
+  "nit-goa": {
+    "logo_source": "https://www.nitgoa.ac.in/static/logo_color_5.png"
+  },
+  "nit-hamirpur": {
+    "logo_source": "https://www.nith.ac.in/uploads/settings/15808764148265.png"
+  },
+  "nit-surathkal": {
+    "about_url": "https://www.nitk.ac.in/about_us",
+    "logo_source": "https://www.nitk.ac.in/design-system/images/favicon.ico"
+  },
+  "nit-meghalaya": {
+    "logo_source": "https://www.nitm.ac.in/img/favicon/apple-icon-57x57.png"
+  },
+  "nit-nagaland": {
+    "logo_source": "https://www.nitnagaland.ac.in/templates/g5_helium/custom/images/Logo%20Transper.png"
+  },
+  "nit-patna": {
+    "introduction": "NIT Patna offers engineering education alongside programmes in fields such as management and computer applications.",
+    "about_url": "https://www.nitp.ac.in/Institute?tab=about",
+    "logo_source": "https://www.nitp.ac.in/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.0wkg4jthc83lp.png&w=128&q=75"
+  },
+  "nit-puducherry": {
+    "logo_source": "https://www.google.com/s2/favicons?domain=nitpy.ac.in&sz=128"
+  },
+  "nit-raipur": {
+    "logo_source": "https://www.nitrr.ac.in/images/nitrr_new_logo_new.png"
+  },
+  "nit-sikkim": {
+    "logo_source": "https://nitsikkim.ac.in/include/header/assets/images/nitLogo.png"
+  },
+  "nit-arunachal-pradesh": {
+    "logo_source": "https://www.nitap.ac.in/images/nitap-logo.png"
+  },
+  "nit-jamshedpur": {
+    "logo_source": "https://www.nitjsr.ac.in/logo_final.png"
+  },
+  "nit-kurukshetra": {
+    "about_url": "https://nitkkr.ac.in/vision/",
+    "logo_source": "https://nitkkr.ac.in/wp-content/uploads/2023/09/cropped-nitlogo-1-180x180.png"
+  },
+  "nit-manipur": {
+    "about_url": "https://nitmanipur.ac.in#nolink",
+    "logo_source": "https://nitmanipur.ac.in/images/small-logo.png"
+  },
+  "nit-mizoram": {
+    "logo_source": "https://nitmz.ac.in/wp-content/uploads/2024/05/Logo_NITMZ.png"
+  },
+  "nit-rourkela": {
+    "logo_source": "https://www.nitrkl.ac.in/assets/images/logo.png"
+  },
+  "nit-silchar": {
+    "logo_source": "https://www.nits.ac.in/images/logo-small.png"
+  },
+  "nit-srinagar": {
+    "introduction": "NIT Srinagar began as a Regional Engineering College in 1960. It is based in Hazratbal, Srinagar.",
+    "logo_source": "https://nitsri.ac.in/upload/mega-menu-logo.png"
+  },
+  "nit-trichy": {
+    "about_url": "https://www.nitt.edu/about/",
+    "logo_source": "https://www.nitt.edu/cms/templates/neonnitt/images/logo.jpg"
+  },
+  "nit-uttarakhand": {
+    "logo_source": "https://nituk.ac.in/nituk/images/nituk_logo.png"
+  },
+  "nit-warangal": {
+    "logo_source": "https://www.nitw.ac.in/logo192.png"
+  },
+  "svnit-surat": {
+    "about_url": "https://www.svnit.ac.in/web/about-us.php",
+    "logo_source": "https://www.svnit.ac.in/images/logo.png"
+  },
+  "vnit-nagpur": {
+    "logo_source": "https://vnit.ac.in/wp-content/uploads/2024/02/cropped-VNIT-Logo-180x180.png"
+  },
+  "nit-andhra-pradesh": {
+    "logo_source": "https://nitandhra.ac.in/main/assets/images/logo-white.webp"
+  },
+  "iiit-gwalior": {
+    "logo_source": "https://www.iiitm.ac.in/public/header_image/1770627993_logo.png"
+  },
+  "iiit-kota": {
+    "introduction": "IIIT Kota offers programmes in computer science, electronics and communication engineering, and artificial intelligence and data science.",
+    "logo_source": "https://cdn.iiitkota.ac.in/site/iiitkota.png"
+  },
+  "iiit-guwahati": {
+    "logo_source": "https://www.iiitg.ac.in/uploads/2023/08/01/7cb707d8dc0de4a798b10636d76db56c.png"
+  },
+  "iiit-kalyani": {
+    "about_url": "https://iiitkalyani.ac.in/about",
+    "logo_source": "https://iiitkalyani.ac.in/design/front/assets/images/favicon.ico"
+  },
+  "iiit-sonipat": {
+    "logo_source": "https://www.iiitsonepat.ac.in/assets/logo-Vlr40RHh.png"
+  },
+  "iiit-una": {
+    "logo_source": "https://www.iiitu.ac.in/assets/iiitu-logo-DvoK09sP.png"
+  },
+  "iiit-sri-city": {
+    "about_url": "https://iiits.ac.in/innovation-tbi/gyan-circle-venture-tide2/about/",
+    "logo_source": "https://iiits.ac.in/iiits-content/uploads/2020/04/logo1.png"
+  },
+  "iiit-vadodara": {
+    "introduction": "IIIT Vadodara was established in 2013 under the public–private partnership model. It also has an international campus in Diu.",
+    "logo_source": "https://iiitvadodara.ac.in/assets/img/logo.png"
+  },
+  "iiit-allahabad": {
+    "about_url": "https://www.iiita.ac.in/about-us",
+    "logo_source": "https://www.iiita.ac.in//sites/default/files/footer-logo-iita.png"
+  },
+  "iiit-kancheepuram": {
+    "introduction": "IIITDM Kancheepuram focuses on design-oriented engineering and the intersection of information technology, product design and manufacturing.",
+    "about_url": "https://www.iiitdm.ac.in/institute/about",
+    "logo_source": "https://www.iiitdm.ac.in/_app/immutable/assets/logo.589b5376.webp"
+  },
+  "iiit-jabalpur": {
+    "about_url": "https://www.iiitdmj.ac.in/about_us.php",
+    "logo_source": "https://www.iiitdmj.ac.in/img/title14.jpg"
+  },
+  "iiit-manipur": {
+    "about_url": "https://www.iiitmanipur.ac.in/pages/about/about.php",
+    "logo_source": "https://www.iiitmanipur.ac.in/img/iiitm-logo.png"
+  },
+  "iiit-tiruchirappalli": {
+    "logo_source": "https://iiitt.ac.in/_next/image?url=http%3A%2F%2Fstore.iiitt.ac.in%2Fimages%2Fiiitt-logo.png&w=96&q=75"
+  },
+  "iiit-lucknow": {
+    "about_url": "https://iiitl.ac.in/index.php/at-a-glance/",
+    "logo_source": "https://iiitl.ac.in/wp-content/uploads/2019/10/Final_Logo_IIITL-800x718.png"
+  },
+  "iiit-dharwad": {
+    "about_url": "https://www.iiitdwd.ac.in/about/",
+    "logo_source": "https://www.iiitdwd.ac.in/_next/static/media/Logo.7fbb41d4.webp"
+  },
+  "iiitdm-kurnool": {
+    "logo_source": "https://www.iiitk.ac.in/images/logo/logo_white.png"
+  },
+  "iiit-kottayam": {
+    "logo_source": "https://www.iiitkottayam.ac.in/data/images/main/logo-mini.png"
+  },
+  "iiit-ranchi": {
+    "about_url": "https://www.iiitranchi.ac.in/glance.aspx",
+    "logo_source": "https://www.iiitranchi.ac.in/images/logo.png"
+  },
+  "iiit-nagpur": {
+    "logo_source": "https://iiitn.ac.in/media/818b135d91ef496ca2c647dec6df5e6a.pdf"
+  },
+  "iiit-pune": {
+    "introduction": "IIIT Pune is an Institute of National Importance with undergraduate, postgraduate and doctoral programmes in information technology.",
+    "logo_source": "https://iiitp.ac.in/iiitp-logo.png"
+  },
+  "iiit-bhagalpur": {
+    "about_url": "https://iiitbh.ac.in/about-iiitbh",
+    "logo_source": "https://iiitbh.ac.in/sites/default/files/IIITBH-WEBPAGE-HEADER.png"
+  },
+  "iiit-bhopal": {
+    "logo_source": "https://iiitbhopal.ac.in/assets/images/favicon.png"
+  },
+  "iiit-surat": {
+    "logo_source": "https://www.iiitsurat.ac.in/favicon.ico"
+  },
+  "iiit-agartala": {
+    "introduction": "IIIT Agartala is a public–private partnership institute established under the IIIT PPP Act of 2017.",
+    "logo_source": "https://iiitagartala.ac.in/assets/images/logo.webp"
+  },
+  "iiit-raichur": {
+    "introduction": "IIIT Raichur's academic areas include computer science, artificial intelligence and data science, and mathematics and computing.",
+    "about_url": "https://iiitr.ac.in/research/",
+    "logo_source": "https://iiitr.ac.in/assets/images/logo.png"
+  },
+  "iiit-vadodara-international-campus-diu": {
+    "logo_source": "https://diumoodle.iiitvadodara.ac.in/pluginfile.php/1/core_admin/favicon/64x64/1768977197/Logo5.png"
+  },
+  "aligarh-muslim-university": {
+    "logo_source": "https://digital.amu.ac.in/assets/img/LOGO2.png"
+  },
+  "assam-university": {
+    "logo_source": "https://www.aus.ac.in/wp-content/uploads/2026/08/logo_140x66_white.png"
+  },
+  "babasaheb-bhimrao-ambedkar-university": {
+    "introduction": "Babasaheb Bhimrao Ambedkar University opened in Lucknow in 1996 as a central university established by an Act of Parliament.",
+    "logo_source": "https://www.bbau.ac.in/bbau/bbauLogo.png"
+  },
+  "bhu": {
+    "logo_source": "https://www.bhu.ac.in/Scripts/SitesBhu/images/logo.png"
+  },
+  "central-agricultural-university": {
+    "logo_source": "https://cau.ac.in/wp-content/uploads/2020/12/caulogo.png"
+  },
+  "central-sanskrit-university": {
+    "logo_source": "https://www.sanskrit.nic.in/favicon/apple-touch-icon.png"
+  },
+  "central-tribal-university-of-andhra-pradesh": {
+    "about_url": "https://www.ctuap.ac.in/about-us/",
+    "logo_source": "https://www.ctuap.ac.in/wp-content/uploads/2022/01/cropped-ctu-Logo-final-180x180.jpeg"
+  },
+  "central-university-of-andhra-pradesh": {
+    "about_url": "https://cuap.ac.in/about-us/",
+    "logo_source": "https://i0.wp.com/cuap.ac.in/wp-content/uploads/2024/06/favicon.png?fit=180%2C180&ssl=1"
+  },
+  "central-university-of-gujarat": {
+    "introduction": "The Central University of Gujarat was established in 2009. It offers undergraduate, postgraduate and doctoral study across multiple academic disciplines.",
+    "about_url": "https://www.cug.ac.in/about.php",
+    "logo_source": "https://www.cug.ac.in/images/favicon.ico"
+  },
+  "central-university-of-haryana": {
+    "introduction": "The Central University of Haryana is based in Mahendragarh. It offers undergraduate, postgraduate and research programmes.",
+    "logo_source": "https://www.cuh.ac.in/logo6.png"
+  },
+  "central-university-of-himachal-pradesh": {
+    "about_url": "https://www.cuhimachal.ac.in/index.php/IQAC/about",
+    "logo_source": "https://www.cuhimachal.ac.in/asset/images/header%2002.png"
+  },
+  "central-university-of-jammu": {
+    "logo_source": "https://www.cujammu.ac.in/static/homepage/images/header/logocuj.jpg"
+  },
+  "central-university-of-jharkhand": {
+    "logo_source": "https://www.cuj.ac.in/img/CUJLOGO.png"
+  },
+  "central-university-of-karnataka": {
+    "about_url": "https://www.cuk.ac.in/about/vision",
+    "logo_source": "https://cms.api.cuk.ac.in/uploads/2026/06/b1e5e6865e1e415ea42641eab76e1cbc.jpg"
+  },
+  "central-university-of-kashmir": {
+    "logo_source": "https://www.cukashmir.ac.in/favicon.ico"
+  },
+  "central-university-of-kerala": {
+    "about_url": "https://www.cukerala.ac.in/About/About_CUKERALA",
+    "logo_source": "https://www.cukerala.ac.in/assets/img/favicon.png"
+  },
+  "central-university-of-odisha": {
+    "about_url": "https://cuo.ac.in/About_Introduction.asp?pgid=1&subid=1",
+    "logo_source": "https://cuo.ac.in/images/logo-sm.jpg"
+  },
+  "central-university-of-punjab": {
+    "logo_source": "https://www.cup.edu.in/sites/default/files/New_Logo_CUP_1.jpg"
+  },
+  "central-university-of-rajasthan": {
+    "logo_source": "https://www.curaj.ac.in/sites/default/files/curaj-logo.png"
+  },
+  "central-university-of-south-bihar": {
+    "about_url": "https://www.cusb.ac.in/index.php?option=com_content&view=article&id=2&Itemid=103",
+    "logo_source": "https://cusb.ac.in/images/cusb/logo-new1.png"
+  },
+  "central-university-of-tamil-nadu": {
+    "logo_source": "https://cutn.ac.in/wp-content/uploads/2023/07/new-logo1.png"
+  },
+  "dr-harisingh-gour-vishwavidyalaya": {
+    "logo_source": "https://dhsgsu.edu.in/images/logo-new.png"
+  },
+  "dr-rajendra-prasad-central-agricultural-university": {
+    "logo_source": "https://rpcau.ac.in/wp-content/uploads/2023/08/Logo-png-formatwhite-background-copy-2.png"
+  },
+  "english-foreign-languages-university": {
+    "about_url": "https://www.efluniversity.ac.in/ITPAboutus.php",
+    "logo_source": "https://efluniversity.ac.in/new-design-assets/images/efl_logo.png"
+  },
+  "gati-shakti-vishwavidyalaya": {
+    "logo_source": "https://www.gsv.ac.in/themes/demo/assets/images/gs/Site%20Logo/site_logo.jpg"
+  },
+  "guru-ghasidas-vishwavidyalaya": {
+    "logo_source": "https://www.ggu.ac.in/media/BasePageImage/ggvlogo.png"
+  },
+  "hemvati-nandan-bahuguna-garhwal-university": {
+    "logo_source": "https://www.hnbgu.ac.in/sites/default/files/HNBG-new-logo.png"
+  },
+  "indian-maritime-university": {
+    "logo_source": "https://www.imu.edu.in/imunew/public/css/images/IMU_Logo.png"
+  },
+  "indira-gandhi-national-open-university": {
+    "logo_source": "https://www.ignou.ac.in/assets/img/favicon.png"
+  },
+  "jamia-millia-islamia": {
+    "introduction": "Jamia Millia Islamia is a central university in New Delhi with academic departments, research centres and professional programmes.",
+    "about_url": "https://jmi.ac.in/ACADEMICS/Overview/Overview",
+    "logo_source": "https://www.jmi.ac.in/assets/images/logo/favicon.svg"
+  },
+  "jnu": {
+    "about_url": "https://www.jnu.ac.in/about-us",
+    "logo_source": "https://www.jnu.ac.in/core/misc/favicon.ico"
+  },
+  "mahatma-gandhi-antarrashtriya-hindi-vishwavidyalaya": {
+    "logo_source": "https://hindivishwa.org/pdf/Tender_Document_Interior_Works_new.pdf",
+    "introduction": "This central university in Wardha was established by an Act of Parliament in 1997. Its teaching and research support Hindi language and scholarship."
+  },
+  "mahatma-gandhi-central-university": {
+    "logo_source": "https://www.mgcub.ac.in/images/rotate.png"
+  },
+  "manipur-university": {
+    "about_url": "https://www.manipuruniv.ac.in/p/about-us",
+    "logo_source": "https://www.manipuruniv.ac.in/upload/999998headinglogo.png"
+  },
+  "maulana-azad-national-urdu-university": {
+    "logo_source": "https://manuu.edu.in/sites/default/files/MANUU-LOGO-Finalcopy1_0.jpg"
+  },
+  "mizoram-university": {
+    "logo_source": "https://mzu.edu.in/wp-content/uploads/2020/05/cropped-MZU-LOGO-2001-new-180x180.png"
+  },
+  "nagaland-university": {
+    "introduction": "Nagaland University began operating in 1994 under the Nagaland University Act, 1989. Its headquarters are in Lumami.",
+    "about_url": "https://nagalanduniversity.ac.in/about/genesis",
+    "logo_source": "https://nagalanduniversity.ac.in/_next/image?url=%2Fassets%2Flogos%2Fnu-logo.png&w=256&q=75"
+  },
+  "nalanda-university": {
+    "about_url": "https://nalandauniv.edu.in/library/overview/",
+    "logo_source": "https://nalandauniv.edu.in/wp-content/uploads/2019/06/nu-logo-footer.png"
+  },
+  "national-sanskrit-university": {
+    "about_url": "https://nsktu.ac.in/index.php/profile/",
+    "logo_source": "https://nsktu.ac.in/storage/2022/10/kksu-logo-300x150.jpg"
+  },
+  "national-sports-university": {
+    "introduction": "National Sports University in Imphal offers study in sports coaching, sports science and physical education.",
+    "logo_source": "https://www.nsu.ac.in/sites/all/themes/nsu/images/logo.png"
+  },
+  "north-eastern-hill-university": {
+    "logo_source": "https://nehu.ac.in/public/assets/images/logo_bw.png"
+  },
+  "pondicherry-university": {
+    "logo_source": "https://www.pondiuni.edu.in/wp-content/uploads/2020/05/PU_Logo-BG-White.png"
+  },
+  "rajiv-gandhi-national-aviation-university": {
+    "logo_source": "https://www.rgnau.ac.in/sites/default/files/logo.png"
+  },
+  "rajiv-gandhi-university": {
+    "logo_source": "https://www.rgu.ac.in/uploads/settings/logo/logo_1769420196.png"
+  },
+  "rani-lakshmi-bai-central-agricultural-university": {
+    "introduction": "Rani Lakshmi Bai Central Agricultural University in Jhansi was established in 2014. Its academic scope includes agriculture and related disciplines.",
+    "logo_source": "https://rlbcau.ac.in/wp-content/uploads/2024/02/logo-102x101.png"
+  },
+  "sammakka-sarakka-central-tribal-university": {
+    "about_url": "https://ssctu.ac.in/about-us/",
+    "logo_source": "https://ssctu.ac.in/wp-content/uploads/2026/08/ssctu-logo01.png"
+  },
+  "shri-lal-bahadur-shastri-national-sanskrit-university": {
+    "logo_source": "https://www.slbsrsv.ac.in/sites/default/files/uploadfiles/slbs-logo-may1.png"
+  },
+  "sikkim-university": {
+    "about_url": "https://cus.ac.in/index.php/en/about-us",
+    "logo_source": "https://cus.ac.in/images/logo.png#joomlaImage://local-images/logo.png?width=453&height=76"
+  },
+  "sindhu-central-university": {
+    "about_url": "https://sindhucu.ac.in/About",
+    "logo_source": "https://sindhucu.ac.in/img/SCU/logo-300x111.png"
+  },
+  "south-asian-university": {
+    "about_url": "https://sau.int/about/",
+    "logo_source": "https://sau.int/wp-content/themes/sau/ae/images/sau-white-logo.png"
+  },
+  "tezu": {
+    "logo_source": "https://www.tezu.ernet.in/design/images/logo.png",
+    "introduction": "Tezpur University is a teaching and residential central university in Assam. It was established by an Act of Parliament in 1994.",
+    "about_url": "https://www.tezu.ernet.in/"
+  },
+  "the-indira-gandhi-national-tribal-university": {
+    "logo_source": "https://www.igntu.ac.in/images/logo_igntu.png"
+  },
+  "tripura-university": {
+    "introduction": "Tripura University became a central university in 2007. Its campus at Suryamaninagar serves students in and around Agartala.",
+    "logo_source": "https://tripurauniv.ac.in/site/images/pdf/prospectus_2025-26.pdf"
+  },
+  "university-of-allahabad": {
+    "about_url": "https://allduniv.ac.in/academics/about-us",
+    "logo_source": "https://allduniv.ac.in/assets/frontend/img/home/au_logo.png"
+  },
+  "delhi-university": {
+    "introduction": "The University of Delhi was established in 1922. It offers teaching and research through academic departments and affiliated colleges across Delhi.",
+    "logo_source": "https://www.du.ac.in/uploads/du/images/logo-du.png"
+  },
+  "uoh": {
+    "introduction": "The University of Hyderabad is a central university with programmes and research in sciences, humanities, social sciences and management.",
+    "about_url": "https://www.uohyd.ac.in/about/overview",
+    "logo_source": "https://www.uohyd.ac.in/images/logo/uoh-logo.png"
+  },
+  "visva-bharati": {
+    "logo_source": "https://www.visvabharati.ac.in/images/favicon.ico"
+  },
+  "iiit-delhi": {
+    "logo_source": "https://iiitd.ac.in/sites/default/files/style1coloricon_0.png"
+  },
+  "iiit-hyderabad": {
+    "introduction": "IIIT Hyderabad is an independent institute focused on computing and related research. It offers undergraduate, dual-degree and postgraduate programmes.",
+    "about_url": "https://www.iiit.ac.in/at-a-glance/",
+    "logo_source": "https://www.iiit.ac.in/wp-content/uploads/2022/07/cropped-IIIT-Favicon-180x180.png"
+  },
+  "iiit-bangalore": {
+    "introduction": "The International Institute of Information Technology Bangalore offers engineering and research programmes, including computer science, electronics, and data science.",
+    "logo_source": "https://www.iiitb.ac.in/includes/images/IIITB_footer_logo.png"
+  },
+  "iiit-bhubaneswar": {
+    "about_url": "https://www.iiit-bh.ac.in/about-iiit/about/",
+    "logo_source": "https://www.iiit-bh.ac.in/wp-content/uploads/2024/common-file/favicon.png"
+  },
+  "iiit-naya-raipur": {
+    "introduction": "IIIT Naya Raipur was established through a Chhattisgarh state act. It is a joint initiative of the state government and NTPC.",
+    "logo_source": "https://ims.iiitnr.edu.in/JRF_SURED/Documents/JRF_Notification.pdf"
+  }
+}

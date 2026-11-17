@@ -1,0 +1,43 @@
+{
+  "name": "AJORA daily institute refresh",
+  "nodes": [
+    {
+      "id": "e223f976-9b5d-4f6d-8e4e-b7bcda909991",
+      "name": "Every day at 5 AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0],
+      "parameters": {
+        "rule": { "interval": [{ "field": "cronExpression", "expression": "0 5 * * *" }] }
+      }
+    },
+    {
+      "id": "ee81cdc5-1699-4c1e-b750-a52c87039a14",
+      "name": "Test refresh",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [0, 180],
+      "parameters": {}
+    },
+    {
+      "id": "2541eb32-82e5-4555-8a62-7fe40d9085a9",
+      "name": "Queue official source refresh",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [260, 60],
+      "parameters": {
+        "method": "POST",
+        "url": "http://127.0.0.1:3000/api/automation/refresh",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": { "timeout": 10000 }
+      }
+    }
+  ],
+  "connections": {
+    "Every day at 5 AM": { "main": [[{ "node": "Queue official source refresh", "type": "main", "index": 0 }]] },
+    "Test refresh": { "main": [[{ "node": "Queue official source refresh", "type": "main", "index": 0 }]] }
+  },
+  "active": false,
+  "settings": { "executionOrder": "v1", "timezone": "Asia/Kolkata" }
+}

@@ -1,0 +1,49 @@
+services:
+  api:
+    environment: &production_api
+      DATABASE_URL: postgresql+psycopg://ajora:${AJORA_DB_PASSWORD:?Set a URL-safe database password}@postgres:5432/ajora
+      AJORA_LOCAL_DEMO: "0"
+      AJORA_ADMIN_TOKEN: ${AJORA_ADMIN_TOKEN:?Set a private administrator token}
+      AJORA_PUBLIC_URL: https://${AJORA_DOMAIN:?Set the public Ajora hostname}
+      AJORA_SMTP_HOST: ${AJORA_SMTP_HOST:?Set an SMTP server for account verification}
+      AJORA_SMTP_PORT: ${AJORA_SMTP_PORT:-587}
+      AJORA_SMTP_FROM: ${AJORA_SMTP_FROM:?Set the verification email sender}
+      AJORA_SMTP_USER: ${AJORA_SMTP_USER:-}
+      AJORA_SMTP_PASSWORD: ${AJORA_SMTP_PASSWORD:-}
+    restart: unless-stopped
+
+  worker:
+    environment: *production_api
+    restart: unless-stopped
+
+  postgres:
+    environment:
+      POSTGRES_PASSWORD: ${AJORA_DB_PASSWORD:?Set a URL-safe database password}
+    restart: unless-stopped
+
+  redis:
+    volumes:
+      - ajora-redis:/data
+    restart: unless-stopped
+
+  web:
+    ports: !reset []
+    restart: unless-stopped
+
+  https:
+    image: caddy:2-alpine
+    environment:
+      AJORA_DOMAIN: ${AJORA_DOMAIN:?Set the public Ajora hostname}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./deployment/Caddyfile:/etc/caddy/Caddyfile:ro
+      - ajora-caddy:/data
+    depends_on:
+      - web
+    restart: unless-stopped
+
+volumes:
+  ajora-redis:
+  ajora-caddy:
